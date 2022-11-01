@@ -1,0 +1,2121 @@
+WARNING (------): DXF version not recognised or not release 12-15.
+ASCII DXF release 15 is recommended
+WARNING (001380): BLOCKS section group 70 unknown/not supported - ignored.
+WARNING (002584): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (002586): BLOCK object group 1 unknown/not supported - ignored.
+SYMBOL: layer="0", name="*Model_Space", org=(0,0), 0 entities.
+WARNING (002608): BLOCK object group 67 unknown/not supported - ignored.
+WARNING (002624): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (002626): BLOCK object group 1 unknown/not supported - ignored.
+SYMBOL: layer="0", name="*Paper_Space", org=(0,0), 0 entities.
+WARNING (002636): BLOCKS section group 67 unknown/not supported - ignored.
+WARNING (002664): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (002666): BLOCK object group 1 unknown/not supported - ignored.
+SYMBOL: layer="0", name="*Paper_Space0", org=(0,0), 0 entities.
+WARNING (002702): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (002704): BLOCK object group 1 unknown/not supported - ignored.
+MTEXT entity, line 2706
+WARNING (002706): Entity expected, found 'MTEXT' - ignored.
+SYMBOL: layer="0", name="Block4", org=(0,0), 0 entities.
+WARNING (002780): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (002782): BLOCK object group 1 unknown/not supported - ignored.
+CIRCLE entity, line 2784
+CIRCLE: layer="LAYER_1", c=(30023,10123), r=3556
+CIRCLE entity, line 2804
+CIRCLE: layer="LAYER_1", c=(30023,10123), r=8636
+LINE entity, line 2824
+LINE: layer="LAYER_1", p1=(0,10228), p2=(40329,10228)
+LINE entity, line 2848
+LINE: layer="LAYER_1", p1=(17255,18633), p2=(17255,1361)
+LINE entity, line 2872
+LINE: layer="LAYER_1", p1=(2572,13553), p2=(2572,6441)
+LINE entity, line 2896
+LINE: layer="LAYER_1", p1=(2572,6441), p2=(17255,1361)
+LINE entity, line 2920
+LINE: layer="LAYER_1", p1=(17255,18633), p2=(2572,13553)
+LINE entity, line 2944
+LINE: layer="LAYER_1", p1=(30023,20794), p2=(30023,0)
+SYMBOL: layer="0", name="Block5", org=(0,0), 8 entities.
+WARNING (003002): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (003004): BLOCK object group 1 unknown/not supported - ignored.
+LINE entity, line 3006
+LINE: layer="LAYER_1", p1=(63499,0), p2=(66721,11074)
+LINE entity, line 3032
+LINE: layer="LAYER_1", p1=(66721,11074), p2=(69699,11074)
+LINE entity, line 3058
+LINE: layer="LAYER_1", p1=(69699,11074), p2=(72919,0)
+LINE entity, line 3084
+LINE: layer="LAYER_1", p1=(72919,0), p2=(70002,0)
+LINE entity, line 3110
+LINE: layer="LAYER_1", p1=(70002,0), p2=(69661,1466)
+LINE entity, line 3136
+LINE: layer="LAYER_1", p1=(69661,1466), p2=(66744,1466)
+LINE entity, line 3162
+LINE: layer="LAYER_1", p1=(66744,1466), p2=(66390,0)
+LINE entity, line 3188
+LINE: layer="LAYER_1", p1=(66390,0), p2=(63499,0)
+LINE entity, line 3214
+LINE: layer="LAYER_1", p1=(67279,3788), p2=(69126,3788)
+LINE entity, line 3240
+LINE: layer="LAYER_1", p1=(69126,3788), p2=(68213,7622)
+LINE entity, line 3266
+LINE: layer="LAYER_1", p1=(68213,7622), p2=(67279,3788)
+LINE entity, line 3292
+LINE: layer="LAYER_1", p1=(59093,0), p2=(59093,4098)
+LINE entity, line 3318
+LINE: layer="LAYER_1", p1=(59093,4098), p2=(55723,11074)
+LINE entity, line 3344
+LINE: layer="LAYER_1", p1=(55723,11074), p2=(58981,11074)
+LINE entity, line 3370
+LINE: layer="LAYER_1", p1=(58981,11074), p2=(60563,7299)
+LINE entity, line 3396
+LINE: layer="LAYER_1", p1=(60563,7299), p2=(62155,11074)
+LINE entity, line 3422
+LINE: layer="LAYER_1", p1=(62155,11074), p2=(65326,11074)
+LINE entity, line 3448
+LINE: layer="LAYER_1", p1=(65326,11074), p2=(62035,4098)
+LINE entity, line 3474
+LINE: layer="LAYER_1", p1=(62035,4098), p2=(62035,0)
+LINE entity, line 3500
+LINE: layer="LAYER_1", p1=(62035,0), p2=(59093,0)
+LINE entity, line 3526
+LINE: layer="LAYER_1", p1=(48108,0), p2=(51331,11074)
+LINE entity, line 3552
+LINE: layer="LAYER_1", p1=(51331,11074), p2=(54309,11074)
+LINE entity, line 3578
+LINE: layer="LAYER_1", p1=(54309,11074), p2=(57529,0)
+LINE entity, line 3604
+LINE: layer="LAYER_1", p1=(57529,0), p2=(54612,0)
+LINE entity, line 3630
+LINE: layer="LAYER_1", p1=(54612,0), p2=(54271,1466)
+LINE entity, line 3656
+LINE: layer="LAYER_1", p1=(54271,1466), p2=(51354,1466)
+LINE entity, line 3682
+LINE: layer="LAYER_1", p1=(51354,1466), p2=(51000,0)
+LINE entity, line 3708
+LINE: layer="LAYER_1", p1=(51000,0), p2=(48108,0)
+LINE entity, line 3734
+LINE: layer="LAYER_1", p1=(51889,3788), p2=(53736,3788)
+LINE entity, line 3760
+LINE: layer="LAYER_1", p1=(53736,3788), p2=(52823,7622)
+LINE entity, line 3786
+LINE: layer="LAYER_1", p1=(52823,7622), p2=(51889,3788)
+LINE entity, line 3812
+LINE: layer="LAYER_1", p1=(39179,0), p2=(39179,11074)
+LINE entity, line 3838
+LINE: layer="LAYER_1", p1=(39179,11074), p2=(42095,11074)
+LINE entity, line 3864
+LINE: layer="LAYER_1", p1=(42095,11074), p2=(42095,7404)
+LINE entity, line 3890
+LINE: layer="LAYER_1", p1=(42095,7404), p2=(44732,11074)
+LINE entity, line 3916
+LINE: layer="LAYER_1", p1=(44732,11074), p2=(48147,11074)
+LINE entity, line 3942
+LINE: layer="LAYER_1", p1=(48147,11074), p2=(44876,6991)
+LINE entity, line 3968
+LINE: layer="LAYER_1", p1=(44876,6991), p2=(48569,0)
+LINE entity, line 3994
+LINE: layer="LAYER_1", p1=(48569,0), p2=(45062,0)
+LINE entity, line 4020
+LINE: layer="LAYER_1", p1=(45062,0), p2=(42823,4435)
+LINE entity, line 4046
+LINE: layer="LAYER_1", p1=(42823,4435), p2=(42095,3526)
+LINE entity, line 4072
+LINE: layer="LAYER_1", p1=(42095,3526), p2=(42095,0)
+LINE entity, line 4098
+LINE: layer="LAYER_1", p1=(42095,0), p2=(39179,0)
+LINE entity, line 4124
+LINE: layer="LAYER_1", p1=(29273,0), p2=(29273,11074)
+LINE entity, line 4150
+LINE: layer="LAYER_1", p1=(29273,11074), p2=(32064,11074)
+LINE entity, line 4176
+LINE: layer="LAYER_1", p1=(32064,11074), p2=(34633,5923)
+LINE entity, line 4202
+LINE: layer="LAYER_1", p1=(35094,5849), p2=(35094,11074)
+LINE entity, line 4228
+LINE: layer="LAYER_1", p1=(35094,11074), p2=(37898,11074)
+LINE entity, line 4254
+LINE: layer="LAYER_1", p1=(37898,11074), p2=(37898,0)
+LINE entity, line 4280
+LINE: layer="LAYER_1", p1=(37898,0), p2=(35094,0)
+LINE entity, line 4306
+LINE: layer="LAYER_1", p1=(35094,0), p2=(32525,5112)
+LINE entity, line 4332
+LINE: layer="LAYER_1", p1=(32064,5187), p2=(32064,0)
+LINE entity, line 4358
+LINE: layer="LAYER_1", p1=(32064,0), p2=(29273,0)
+LINE entity, line 4384
+LINE: layer="LAYER_1", p1=(24949,0), p2=(24949,11074)
+LINE entity, line 4410
+LINE: layer="LAYER_1", p1=(24949,11074), p2=(27945,11074)
+LINE entity, line 4436
+LINE: layer="LAYER_1", p1=(27945,11074), p2=(27945,0)
+LINE entity, line 4462
+LINE: layer="LAYER_1", p1=(27945,0), p2=(24949,0)
+LINE entity, line 4488
+LINE: layer="LAYER_1", p1=(18368,0), p2=(18368,8156)
+LINE entity, line 4514
+LINE: layer="LAYER_1", p1=(18368,8156), p2=(15731,8156)
+LINE entity, line 4540
+LINE: layer="LAYER_1", p1=(15731,8156), p2=(15731,11074)
+LINE entity, line 4566
+LINE: layer="LAYER_1", p1=(15731,11074), p2=(23891,11074)
+LINE entity, line 4592
+LINE: layer="LAYER_1", p1=(23891,11074), p2=(23891,8156)
+LINE entity, line 4618
+LINE: layer="LAYER_1", p1=(23891,8156), p2=(21310,8156)
+LINE entity, line 4644
+LINE: layer="LAYER_1", p1=(21310,8156), p2=(21310,0)
+LINE entity, line 4670
+LINE: layer="LAYER_1", p1=(21310,0), p2=(18368,0)
+LINE entity, line 4696
+LINE: layer="LAYER_1", p1=(10261,0), p2=(10261,11074)
+LINE entity, line 4722
+LINE: layer="LAYER_1", p1=(10261,11074), p2=(13203,11074)
+LINE entity, line 4748
+LINE: layer="LAYER_1", p1=(13203,11074), p2=(13203,2941)
+LINE entity, line 4774
+LINE: layer="LAYER_1", p1=(13203,2941), p2=(17202,2941)
+LINE entity, line 4800
+LINE: layer="LAYER_1", p1=(17202,2941), p2=(17202,0)
+LINE entity, line 4826
+LINE: layer="LAYER_1", p1=(17202,0), p2=(10261,0)
+LINE entity, line 4852
+LINE: layer="LAYER_1", p1=(0,0), p2=(3222,11074)
+LINE entity, line 4878
+LINE: layer="LAYER_1", p1=(3222,11074), p2=(6200,11074)
+LINE entity, line 4904
+LINE: layer="LAYER_1", p1=(6200,11074), p2=(9420,0)
+LINE entity, line 4930
+LINE: layer="LAYER_1", p1=(9420,0), p2=(6504,0)
+LINE entity, line 4956
+LINE: layer="LAYER_1", p1=(6504,0), p2=(6162,1466)
+LINE entity, line 4982
+LINE: layer="LAYER_1", p1=(6162,1466), p2=(3246,1466)
+LINE entity, line 5008
+LINE: layer="LAYER_1", p1=(3246,1466), p2=(2891,0)
+LINE entity, line 5034
+LINE: layer="LAYER_1", p1=(2891,0), p2=(0,0)
+LINE entity, line 5060
+LINE: layer="LAYER_1", p1=(3780,3788), p2=(5627,3788)
+LINE entity, line 5086
+LINE: layer="LAYER_1", p1=(5627,3788), p2=(4715,7622)
+LINE entity, line 5112
+LINE: layer="LAYER_1", p1=(4715,7622), p2=(3780,3788)
+SPLINE entity, line 5138
+SPLINE: layer="LAYER_1", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 5212
+SPLINE: layer="LAYER_1", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 5286
+SPLINE: layer="LAYER_1", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 5360
+SPLINE: layer="LAYER_1", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 5434
+SPLINE: layer="LAYER_1", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 5508
+SPLINE: layer="LAYER_1", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 5582
+SPLINE: layer="LAYER_1", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 5656
+SPLINE: layer="LAYER_1", flags=0x08, degree=3, num knots=8
+SYMBOL: layer="0", name="Block6", org=(0,0), 90 entities.
+WARNING (005764): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (005766): BLOCK object group 1 unknown/not supported - ignored.
+MTEXT entity, line 5768
+WARNING (005768): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 5808
+WARNING (005808): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 5848
+WARNING (005848): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 5888
+WARNING (005888): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 5928
+WARNING (005928): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 5968
+WARNING (005968): Entity expected, found 'MTEXT' - ignored.
+SYMBOL: layer="0", name="SW_NOTE_0", org=(0,0), 0 entities.
+WARNING (006042): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (006044): BLOCK object group 1 unknown/not supported - ignored.
+SOLID entity, line 6046
+T.SOLID: layer="LAYER_1", p1=(393660,574131), p2=(385273,575421), p3=(385273,572840)
+SOLID entity, line 6082
+T.SOLID: layer="LAYER_1", p1=(211793,574131), p2=(220180,572840), p3=(220180,575421)
+LINE entity, line 6118
+LINE: layer="LAYER_1", p1=(393660,567855), p2=(393660,576671)
+LINE entity, line 6142
+LINE: layer="LAYER_1", p1=(211793,567855), p2=(211793,576671)
+LINE entity, line 6166
+LINE: layer="LAYER_1", p1=(393660,574131), p2=(211793,574131)
+MTEXT entity, line 6190
+WARNING (006190): Entity expected, found 'MTEXT' - ignored.
+SYMBOL: layer="0", name="*D5", org=(0,0), 5 entities.
+WARNING (006264): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (006266): BLOCK object group 1 unknown/not supported - ignored.
+SOLID entity, line 6268
+T.SOLID: layer="LAYER_1", p1=(414614,458727), p2=(406226,460017), p3=(406226,457437)
+SOLID entity, line 6304
+T.SOLID: layer="LAYER_1", p1=(190840,458727), p2=(199227,457437), p3=(199227,460017)
+LINE entity, line 6340
+LINE: layer="LAYER_1", p1=(414614,562775), p2=(414614,456187)
+LINE entity, line 6364
+LINE: layer="LAYER_1", p1=(190840,562775), p2=(190840,456187)
+LINE entity, line 6388
+LINE: layer="LAYER_1", p1=(414614,458727), p2=(190840,458727)
+MTEXT entity, line 6412
+WARNING (006412): Entity expected, found 'MTEXT' - ignored.
+SYMBOL: layer="0", name="*D6", org=(0,0), 5 entities.
+WARNING (006480): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (006482): BLOCK object group 1 unknown/not supported - ignored.
+SOLID entity, line 6484
+T.SOLID: layer="LAYER_1", p1=(165440,485559), p2=(166730,493946), p3=(164149,493946)
+SOLID entity, line 6520
+T.SOLID: layer="LAYER_1", p1=(165440,645071), p2=(164149,636684), p3=(166730,636684)
+LINE entity, line 6556
+LINE: layer="LAYER_1", p1=(218085,485559), p2=(162900,485559)
+LINE entity, line 6580
+LINE: layer="LAYER_1", p1=(218085,645071), p2=(162900,645071)
+LINE entity, line 6604
+LINE: layer="LAYER_1", p1=(165440,485559), p2=(165440,645071)
+MTEXT entity, line 6628
+WARNING (006628): Entity expected, found 'MTEXT' - ignored.
+SYMBOL: layer="0", name="*D7", org=(0,0), 5 entities.
+WARNING (006702): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (006704): BLOCK object group 1 unknown/not supported - ignored.
+SOLID entity, line 6706
+T.SOLID: layer="LAYER_1", p1=(280420,624121), p2=(279130,615734), p3=(281710,615734)
+SOLID entity, line 6742
+T.SOLID: layer="LAYER_1", p1=(280419,506513), p2=(281709,514900), p3=(279128,514900)
+LINE entity, line 6778
+LINE: layer="LAYER_1", p1=(381106,624120), p2=(277880,624121)
+LINE entity, line 6802
+LINE: layer="LAYER_1", p1=(381104,506512), p2=(277879,506513)
+LINE entity, line 6826
+LINE: layer="LAYER_1", p1=(280420,624121), p2=(280419,506513)
+MTEXT entity, line 6850
+WARNING (006850): Entity expected, found 'MTEXT' - ignored.
+SYMBOL: layer="0", name="*D8", org=(0,0), 5 entities.
+WARNING (006924): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (006926): BLOCK object group 1 unknown/not supported - ignored.
+SOLID entity, line 6928
+T.SOLID: layer="LAYER_1", p1=(557198,534364), p2=(548811,535655), p3=(548811,533074)
+SOLID entity, line 6964
+T.SOLID: layer="LAYER_1", p1=(570914,534364), p2=(579301,533074), p3=(579301,535655)
+LINE entity, line 7000
+LINE: layer="LAYER_1", p1=(557198,516689), p2=(557198,536904)
+LINE entity, line 7024
+LINE: layer="LAYER_1", p1=(557198,534364), p2=(541069,534364)
+LINE entity, line 7048
+LINE: layer="LAYER_1", p1=(557198,534364), p2=(570914,534364)
+LINE entity, line 7072
+LINE: layer="LAYER_1", p1=(570914,534364), p2=(604202,534364)
+MTEXT entity, line 7096
+WARNING (007096): Entity expected, found 'MTEXT' - ignored.
+SYMBOL: layer="0", name="*D9", org=(0,0), 6 entities.
+WARNING (007164): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (007166): BLOCK object group 1 unknown/not supported - ignored.
+SOLID entity, line 7168
+T.SOLID: layer="LAYER_1", p1=(575486,574304), p2=(567099,575594), p3=(567099,573013)
+SOLID entity, line 7204
+T.SOLID: layer="LAYER_1", p1=(578026,574304), p2=(586413,573013), p3=(586413,575594)
+LINE entity, line 7240
+LINE: layer="LAYER_1", p1=(575486,574304), p2=(559357,574304)
+LINE entity, line 7264
+LINE: layer="LAYER_1", p1=(575486,574304), p2=(578026,574304)
+LINE entity, line 7288
+LINE: layer="LAYER_1", p1=(578026,574304), p2=(605320,574304)
+MTEXT entity, line 7312
+WARNING (007312): Entity expected, found 'MTEXT' - ignored.
+SYMBOL: layer="0", name="*D10", org=(0,0), 5 entities.
+WARNING (007380): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (007382): BLOCK object group 1 unknown/not supported - ignored.
+SOLID entity, line 7384
+T.SOLID: layer="LAYER_1", p1=(580566,466657), p2=(572179,467947), p3=(572179,465367)
+SOLID entity, line 7420
+T.SOLID: layer="LAYER_1", p1=(544244,466657), p2=(552631,465367), p3=(552631,467947)
+LINE entity, line 7456
+LINE: layer="LAYER_1", p1=(580566,508459), p2=(580566,464117)
+LINE entity, line 7480
+LINE: layer="LAYER_1", p1=(544244,504699), p2=(544244,464117)
+LINE entity, line 7504
+LINE: layer="LAYER_1", p1=(580566,466657), p2=(544244,466657)
+MTEXT entity, line 7528
+WARNING (007528): Entity expected, found 'MTEXT' - ignored.
+SYMBOL: layer="0", name="*D11", org=(0,0), 5 entities.
+WARNING (007596): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (007598): BLOCK object group 1 unknown/not supported - ignored.
+SOLID entity, line 7600
+T.SOLID: layer="LAYER_1", p1=(570914,594328), p2=(562527,595619), p3=(562527,593038)
+SOLID entity, line 7636
+T.SOLID: layer="LAYER_1", p1=(544244,594328), p2=(552631,593038), p3=(552631,595619)
+LINE entity, line 7672
+LINE: layer="LAYER_1", p1=(570914,594328), p2=(544244,594328)
+LINE entity, line 7696
+LINE: layer="LAYER_1", p1=(544244,594328), p2=(509768,594328)
+MTEXT entity, line 7720
+WARNING (007720): Entity expected, found 'MTEXT' - ignored.
+SYMBOL: layer="0", name="*D12", org=(0,0), 4 entities.
+WARNING (007788): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (007790): BLOCK object group 1 unknown/not supported - ignored.
+SOLID entity, line 7792
+T.SOLID: layer="LAYER_1", p1=(363052,337329), p2=(354664,338619), p3=(354664,336038)
+SOLID entity, line 7828
+T.SOLID: layer="LAYER_1", p1=(242402,337329), p2=(250789,336038), p3=(250789,338619)
+LINE entity, line 7864
+LINE: layer="LAYER_1", p1=(363052,310433), p2=(363052,339869)
+LINE entity, line 7888
+LINE: layer="LAYER_1", p1=(242402,310433), p2=(242402,339869)
+LINE entity, line 7912
+LINE: layer="LAYER_1", p1=(363052,337329), p2=(242402,337329)
+MTEXT entity, line 7936
+WARNING (007936): Entity expected, found 'MTEXT' - ignored.
+SYMBOL: layer="0", name="*D13", org=(0,0), 5 entities.
+WARNING (008004): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (008006): BLOCK object group 1 unknown/not supported - ignored.
+SOLID entity, line 8008
+T.SOLID: layer="LAYER_1", p1=(268542,307893), p2=(267251,299506), p3=(269832,299506)
+SOLID entity, line 8044
+T.SOLID: layer="LAYER_1", p1=(268542,194101), p2=(269832,202488), p3=(267251,202488)
+LINE entity, line 8080
+LINE: layer="LAYER_1", p1=(244942,307893), p2=(271082,307893)
+LINE entity, line 8104
+LINE: layer="LAYER_1", p1=(244942,194101), p2=(271082,194101)
+LINE entity, line 8128
+LINE: layer="LAYER_1", p1=(268542,307893), p2=(268542,194101)
+MTEXT entity, line 8152
+WARNING (008152): Entity expected, found 'MTEXT' - ignored.
+SYMBOL: layer="0", name="*D14", org=(0,0), 5 entities.
+WARNING (008226): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (008228): BLOCK object group 1 unknown/not supported - ignored.
+SOLID entity, line 8230
+T.SOLID: layer="LAYER_1", p1=(220812,357585), p2=(229199,356295), p3=(229199,358876)
+SOLID entity, line 8266
+T.SOLID: layer="LAYER_1", p1=(384642,357585), p2=(376254,358876), p3=(376254,356295)
+LINE entity, line 8302
+LINE: layer="LAYER_1", p1=(220812,307512), p2=(220812,360125)
+LINE entity, line 8326
+LINE: layer="LAYER_1", p1=(384642,307512), p2=(384642,360125)
+LINE entity, line 8350
+LINE: layer="LAYER_1", p1=(220812,357585), p2=(384642,357585)
+MTEXT entity, line 8374
+WARNING (008374): Entity expected, found 'MTEXT' - ignored.
+SYMBOL: layer="0", name="*D15", org=(0,0), 5 entities.
+WARNING (008442): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (008444): BLOCK object group 1 unknown/not supported - ignored.
+SOLID entity, line 8446
+T.SOLID: layer="LAYER_1", p1=(178381,304972), p2=(177091,296585), p3=(179672,296585)
+SOLID entity, line 8482
+T.SOLID: layer="LAYER_1", p1=(178381,197022), p2=(179672,205409), p3=(177091,205409)
+LINE entity, line 8518
+LINE: layer="LAYER_1", p1=(218272,304972), p2=(175841,304972)
+LINE entity, line 8542
+LINE: layer="LAYER_1", p1=(218272,197022), p2=(175841,197022)
+LINE entity, line 8566
+LINE: layer="LAYER_1", p1=(178381,304972), p2=(178381,197022)
+MTEXT entity, line 8590
+WARNING (008590): Entity expected, found 'MTEXT' - ignored.
+SYMBOL: layer="0", name="*D16", org=(0,0), 5 entities.
+WARNING (008664): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (008666): BLOCK object group 1 unknown/not supported - ignored.
+LINE entity, line 8668
+LINE: layer="LAYER_1", p1=(0,0), p2=(0,6350)
+LINE entity, line 8694
+LINE: layer="LAYER_1", p1=(0,0), p2=(-6350,0)
+LINE entity, line 8720
+LINE: layer="LAYER_1", p1=(0,0), p2=(0,-6350)
+LINE entity, line 8746
+LINE: layer="LAYER_1", p1=(0,0), p2=(6350,0)
+LINE entity, line 8772
+LINE: layer="LAYER_1", p1=(0,6350), p2=(0,9398)
+LINE entity, line 8798
+LINE: layer="LAYER_1", p1=(-6350,0), p2=(-9398,0)
+LINE entity, line 8824
+LINE: layer="LAYER_1", p1=(0,-6350), p2=(0,-9398)
+LINE entity, line 8850
+LINE: layer="LAYER_1", p1=(6350,0), p2=(9398,0)
+SYMBOL: layer="0", name="SW_CENTERMARKSYMBOL_0", org=(0,0), 8 entities.
+WARNING (008910): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (008912): BLOCK object group 1 unknown/not supported - ignored.
+LINE entity, line 8914
+LINE: layer="LAYER_1", p1=(0,0), p2=(0,6350)
+LINE entity, line 8940
+LINE: layer="LAYER_1", p1=(0,0), p2=(-6350,0)
+LINE entity, line 8966
+LINE: layer="LAYER_1", p1=(0,0), p2=(0,-6350)
+LINE entity, line 8992
+LINE: layer="LAYER_1", p1=(0,0), p2=(6350,0)
+LINE entity, line 9018
+LINE: layer="LAYER_1", p1=(0,6350), p2=(0,9398)
+LINE entity, line 9044
+LINE: layer="LAYER_1", p1=(-6350,0), p2=(-9398,0)
+LINE entity, line 9070
+LINE: layer="LAYER_1", p1=(0,-6350), p2=(0,-9398)
+LINE entity, line 9096
+LINE: layer="LAYER_1", p1=(6350,0), p2=(9398,0)
+SYMBOL: layer="0", name="SW_CENTERMARKSYMBOL_1", org=(0,0), 8 entities.
+WARNING (009156): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (009158): BLOCK object group 1 unknown/not supported - ignored.
+LINE entity, line 9160
+LINE: layer="LAYER_1", p1=(0,0), p2=(0,6350)
+LINE entity, line 9186
+LINE: layer="LAYER_1", p1=(0,0), p2=(-6350,0)
+LINE entity, line 9212
+LINE: layer="LAYER_1", p1=(0,0), p2=(0,-6350)
+LINE entity, line 9238
+LINE: layer="LAYER_1", p1=(0,0), p2=(6350,0)
+LINE entity, line 9264
+LINE: layer="LAYER_1", p1=(0,6350), p2=(0,9398)
+LINE entity, line 9290
+LINE: layer="LAYER_1", p1=(-6350,0), p2=(-9398,0)
+LINE entity, line 9316
+LINE: layer="LAYER_1", p1=(0,-6350), p2=(0,-9398)
+LINE entity, line 9342
+LINE: layer="LAYER_1", p1=(6350,0), p2=(9398,0)
+SYMBOL: layer="0", name="SW_CENTERMARKSYMBOL_2", org=(0,0), 8 entities.
+WARNING (009402): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (009404): BLOCK object group 1 unknown/not supported - ignored.
+LINE entity, line 9406
+LINE: layer="LAYER_1", p1=(0,0), p2=(0,6350)
+LINE entity, line 9432
+LINE: layer="LAYER_1", p1=(0,0), p2=(-6350,0)
+LINE entity, line 9458
+LINE: layer="LAYER_1", p1=(0,0), p2=(0,-6350)
+LINE entity, line 9484
+LINE: layer="LAYER_1", p1=(0,0), p2=(6350,0)
+LINE entity, line 9510
+LINE: layer="LAYER_1", p1=(0,6350), p2=(0,9398)
+LINE entity, line 9536
+LINE: layer="LAYER_1", p1=(-6350,0), p2=(-9398,0)
+LINE entity, line 9562
+LINE: layer="LAYER_1", p1=(0,-6350), p2=(0,-9398)
+LINE entity, line 9588
+LINE: layer="LAYER_1", p1=(6350,0), p2=(9398,0)
+SYMBOL: layer="0", name="SW_CENTERMARKSYMBOL_3", org=(0,0), 8 entities.
+WARNING (009648): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (009650): BLOCK object group 1 unknown/not supported - ignored.
+LINE entity, line 9652
+LINE: layer="LAYER_1", p1=(0,0), p2=(0,6350)
+LINE entity, line 9678
+LINE: layer="LAYER_1", p1=(0,0), p2=(-6350,0)
+LINE entity, line 9704
+LINE: layer="LAYER_1", p1=(0,0), p2=(0,-6350)
+LINE entity, line 9730
+LINE: layer="LAYER_1", p1=(0,0), p2=(6350,0)
+LINE entity, line 9756
+LINE: layer="LAYER_1", p1=(0,6350), p2=(0,8763)
+LINE entity, line 9782
+LINE: layer="LAYER_1", p1=(-6350,0), p2=(-8763,0)
+LINE entity, line 9808
+LINE: layer="LAYER_1", p1=(0,-6350), p2=(0,-8763)
+LINE entity, line 9834
+LINE: layer="LAYER_1", p1=(6350,0), p2=(8763,0)
+SYMBOL: layer="0", name="SW_CENTERMARKSYMBOL_4", org=(0,0), 8 entities.
+WARNING (009894): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (009896): BLOCK object group 1 unknown/not supported - ignored.
+LINE entity, line 9898
+LINE: layer="LAYER_1", p1=(0,0), p2=(0,6350)
+LINE entity, line 9924
+LINE: layer="LAYER_1", p1=(0,0), p2=(-6350,0)
+LINE entity, line 9950
+LINE: layer="LAYER_1", p1=(0,0), p2=(0,-6350)
+LINE entity, line 9976
+LINE: layer="LAYER_1", p1=(0,0), p2=(6350,0)
+LINE entity, line 10002
+LINE: layer="LAYER_1", p1=(0,6350), p2=(0,8763)
+LINE entity, line 10028
+LINE: layer="LAYER_1", p1=(-6350,0), p2=(-8763,0)
+LINE entity, line 10054
+LINE: layer="LAYER_1", p1=(0,-6350), p2=(0,-8763)
+LINE entity, line 10080
+LINE: layer="LAYER_1", p1=(6350,0), p2=(8763,0)
+SYMBOL: layer="0", name="SW_CENTERMARKSYMBOL_5", org=(0,0), 8 entities.
+WARNING (010140): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (010142): BLOCK object group 1 unknown/not supported - ignored.
+LINE entity, line 10144
+LINE: layer="LAYER_1", p1=(0,0), p2=(0,6350)
+LINE entity, line 10170
+LINE: layer="LAYER_1", p1=(0,0), p2=(-6350,0)
+LINE entity, line 10196
+LINE: layer="LAYER_1", p1=(0,0), p2=(0,-6350)
+LINE entity, line 10222
+LINE: layer="LAYER_1", p1=(0,0), p2=(6350,0)
+LINE entity, line 10248
+LINE: layer="LAYER_1", p1=(0,6350), p2=(0,8763)
+LINE entity, line 10274
+LINE: layer="LAYER_1", p1=(-6350,0), p2=(-8763,0)
+LINE entity, line 10300
+LINE: layer="LAYER_1", p1=(0,-6350), p2=(0,-8763)
+LINE entity, line 10326
+LINE: layer="LAYER_1", p1=(6350,0), p2=(8763,0)
+SYMBOL: layer="0", name="SW_CENTERMARKSYMBOL_6", org=(0,0), 8 entities.
+WARNING (010386): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (010388): BLOCK object group 1 unknown/not supported - ignored.
+LINE entity, line 10390
+LINE: layer="LAYER_1", p1=(0,0), p2=(0,6350)
+LINE entity, line 10416
+LINE: layer="LAYER_1", p1=(0,0), p2=(-6350,0)
+LINE entity, line 10442
+LINE: layer="LAYER_1", p1=(0,0), p2=(0,-6350)
+LINE entity, line 10468
+LINE: layer="LAYER_1", p1=(0,0), p2=(6350,0)
+LINE entity, line 10494
+LINE: layer="LAYER_1", p1=(0,6350), p2=(0,8763)
+LINE entity, line 10520
+LINE: layer="LAYER_1", p1=(-6350,0), p2=(-8763,0)
+LINE entity, line 10546
+LINE: layer="LAYER_1", p1=(0,-6350), p2=(0,-8763)
+LINE entity, line 10572
+LINE: layer="LAYER_1", p1=(6350,0), p2=(8763,0)
+SYMBOL: layer="0", name="SW_CENTERMARKSYMBOL_7", org=(0,0), 8 entities.
+HATCH entity, line 10616
+WARNING (010616): Entity expected, found 'HATCH' - ignored.
+LINE entity, line 12198
+LINE: layer="LAYER_2", p1=(836583,130334), p2=(857390,130334)
+LINE entity, line 12224
+LINE: layer="LAYER_1", p1=(829564,152805), p2=(741850,152805)
+LINE entity, line 12248
+LINE: layer="LAYER_1", p1=(829564,152805), p2=(1053071,152805)
+LINE entity, line 12272
+LINE: layer="LAYER_1", p1=(1041400,728980), p2=(1041400,152805)
+LINE entity, line 12296
+LINE: layer="LAYER_2", p1=(858876,128848), p2=(858876,112500)
+LINE entity, line 12322
+LINE: layer="LAYER_2", p1=(858876,112500), p2=(857006,112500)
+LINE entity, line 12348
+LINE: layer="LAYER_2", p1=(850852,112500), p2=(843119,112500)
+LINE entity, line 12374
+LINE: layer="LAYER_2", p1=(836971,112500), p2=(835097,112500)
+LINE entity, line 12400
+LINE: layer="LAYER_2", p1=(835097,112500), p2=(835097,128848)
+LINE entity, line 12426
+LINE: layer="LAYER_1", p1=(768125,120881), p2=(768125,91795)
+LINE entity, line 12450
+LINE: layer="LAYER_1", p1=(1005909,131652), p2=(1005909,152986)
+LINE entity, line 12474
+LINE: layer="LAYER_1", p1=(807988,120881), p2=(807988,91820)
+LINE entity, line 12498
+LINE: layer="LAYER_1", p1=(741850,152805), p2=(741850,12700)
+LINE entity, line 12522
+LINE: layer="LAYER_1", p1=(829564,152805), p2=(829564,12700)
+LINE entity, line 12546
+LINE: layer="LAYER_1", p1=(941832,12700), p2=(941832,25400)
+LINE entity, line 12570
+LINE: layer="LAYER_1", p1=(949868,131652), p2=(949868,153035)
+LINE entity, line 12594
+LINE: layer="LAYER_1", p1=(1021080,23495), p2=(1021080,55880)
+LINE entity, line 12618
+LINE: layer="LAYER_1", p1=(1053071,34290), p2=(1021080,34290)
+LINE entity, line 12642
+LINE: layer="LAYER_1", p1=(829564,91820), p2=(741850,91820)
+LINE entity, line 12666
+LINE: layer="LAYER_1", p1=(829564,120881), p2=(741850,120881)
+LINE entity, line 12690
+LINE: layer="LAYER_1", p1=(741850,111128), p2=(829564,111128)
+LINE entity, line 12714
+LINE: layer="LAYER_1", p1=(741850,101450), p2=(829564,101450)
+LINE entity, line 12738
+LINE: layer="LAYER_1", p1=(741850,44500), p2=(829564,44500)
+LINE entity, line 12762
+LINE: layer="LAYER_1", p1=(829564,111128), p2=(1053071,111128)
+LINE entity, line 12786
+LINE: layer="LAYER_1", p1=(1053071,741680), p2=(12700,741680)
+LINE entity, line 12810
+LINE: layer="LAYER_1", p1=(1041400,728980), p2=(25400,728980)
+LINE entity, line 12834
+LINE: layer="LAYER_1", p1=(12700,741680), p2=(12700,12700)
+LINE entity, line 12858
+LINE: layer="LAYER_1", p1=(25400,728980), p2=(25400,25400)
+LINE entity, line 12882
+LINE: layer="LAYER_1", p1=(25400,123190), p2=(12700,123190)
+LINE entity, line 12906
+LINE: layer="LAYER_1", p1=(12700,250190), p2=(25400,250190)
+LINE entity, line 12930
+LINE: layer="LAYER_1", p1=(12700,504190), p2=(25400,504190)
+LINE entity, line 12954
+LINE: layer="LAYER_1", p1=(12700,377190), p2=(38100,377190)
+LINE entity, line 12978
+LINE: layer="LAYER_1", p1=(12700,12700), p2=(1053071,12700)
+LINE entity, line 13002
+LINE: layer="LAYER_1", p1=(25400,25400), p2=(578612,25400)
+LINE entity, line 13026
+LINE: layer="LAYER_1", p1=(152400,12700), p2=(152400,25400)
+LINE entity, line 13050
+LINE: layer="LAYER_1", p1=(279400,25400), p2=(279400,12700)
+LINE entity, line 13074
+LINE: layer="LAYER_1", p1=(406400,12700), p2=(406400,25400)
+LINE entity, line 13098
+LINE: layer="LAYER_1", p1=(25400,631190), p2=(12700,631190)
+LINE entity, line 13122
+LINE: layer="LAYER_1", p1=(152400,728980), p2=(152400,741680)
+LINE entity, line 13146
+LINE: layer="LAYER_1", p1=(279400,741680), p2=(279400,728980)
+LINE entity, line 13170
+LINE: layer="LAYER_1", p1=(406400,728980), p2=(406400,741680)
+LINE entity, line 13194
+LINE: layer="LAYER_1", p1=(660400,728980), p2=(660400,741680)
+LINE entity, line 13218
+LINE: layer="LAYER_1", p1=(1053071,12700), p2=(1053071,741680)
+LINE entity, line 13242
+LINE: layer="LAYER_1", p1=(533400,12700), p2=(533400,38100)
+LINE entity, line 13266
+LINE: layer="LAYER_1", p1=(1041400,504190), p2=(1054100,504190)
+LINE entity, line 13290
+LINE: layer="LAYER_1", p1=(1041400,250190), p2=(1054100,250190)
+LINE entity, line 13314
+LINE: layer="LAYER_1", p1=(1054100,377190), p2=(1028700,377190)
+LINE entity, line 13338
+LINE: layer="LAYER_1", p1=(787400,741680), p2=(787400,728980)
+LINE entity, line 13362
+LINE: layer="LAYER_1", p1=(914400,728980), p2=(914400,741680)
+LINE entity, line 13386
+LINE: layer="LAYER_1", p1=(533400,741680), p2=(533400,716280)
+LINE entity, line 13410
+LINE: layer="LAYER_1", p1=(1054100,631190), p2=(1041400,631190)
+LINE entity, line 13434
+LINE: layer="LAYER_1", p1=(1053071,131652), p2=(829564,131652)
+LINE entity, line 13458
+LINE: layer="LAYER_1", p1=(578612,25400), p2=(1021080,25400)
+LINE entity, line 13482
+LINE: layer="LAYER_1", p1=(1021080,25400), p2=(1021080,12700)
+LINE entity, line 13506
+LINE: layer="LAYER_1", p1=(829564,55880), p2=(1053071,55880)
+LINE entity, line 13530
+LINE: layer="LAYER_1", p1=(660400,25400), p2=(660400,12700)
+SPLINE entity, line 13554
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 13628
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 13702
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 13776
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 13850
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 13924
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 13998
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 14072
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 14146
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 14220
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 14294
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 14368
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 14442
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 14516
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 14590
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 14664
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 14738
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 14812
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 14886
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 14960
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 15034
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 15108
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 15182
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 15256
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 15330
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 15404
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 15478
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 15552
+SPLINE: layer="LAYER_2", flags=0x08, degree=3, num knots=8
+INSERT entity, line 15626
+WARNING (015636): INSERT entity group 6 unknown/not supported - ignored.
+WARNING (015654): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="0", name="Block4", o=(861171,112761), rot=0.0ø, xscale=0.800000, yscale=0.800000
+INSERT entity, line 15656
+WARNING (015666): INSERT entity group 6 unknown/not supported - ignored.
+WARNING (015684): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="0", name="Block6", o=(861715,118747), rot=0.0ø, xscale=0.900000, yscale=0.900000
+INSERT entity, line 15686
+WARNING (015696): INSERT entity group 6 unknown/not supported - ignored.
+WARNING (015714): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="0", name="Block5", o=(1020940,14911), rot=0.0ø, xscale=0.800000, yscale=0.800000
+MTEXT entity, line 15716
+WARNING (015716): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 15756
+WARNING (015756): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 15796
+WARNING (015796): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 15836
+WARNING (015836): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 15876
+WARNING (015876): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 15916
+WARNING (015916): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 15956
+WARNING (015956): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 15996
+WARNING (015996): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 16036
+WARNING (016036): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 16076
+WARNING (016076): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 16116
+WARNING (016116): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 16156
+WARNING (016156): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 16196
+WARNING (016196): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 16236
+WARNING (016236): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 16276
+WARNING (016276): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 16316
+WARNING (016316): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 16356
+WARNING (016356): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 16396
+WARNING (016396): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 16436
+WARNING (016436): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 16476
+WARNING (016476): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 16516
+WARNING (016516): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 16550
+WARNING (016550): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 16584
+WARNING (016584): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 16618
+WARNING (016618): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 16658
+WARNING (016658): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 16692
+WARNING (016692): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 16726
+WARNING (016726): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 16766
+WARNING (016766): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 16806
+WARNING (016806): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 16846
+WARNING (016846): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 16886
+WARNING (016886): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 16926
+WARNING (016926): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 16966
+WARNING (016966): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 17006
+WARNING (017006): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 17046
+WARNING (017046): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 17086
+WARNING (017086): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 17126
+WARNING (017126): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 17166
+WARNING (017166): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 17206
+WARNING (017206): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 17246
+WARNING (017246): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 17286
+WARNING (017286): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 17326
+WARNING (017326): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 17366
+WARNING (017366): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 17406
+WARNING (017406): Entity expected, found 'MTEXT' - ignored.
+INSERT entity, line 17446
+WARNING (017456): INSERT entity group 6 unknown/not supported - ignored.
+WARNING (017460): INSERT entity group 370 unknown/not supported - ignored.
+INSERT: layer="0", name="SW_NOTE_0", o=(748502,140861), rot=0.0ø, xscale=1.000000, yscale=1.000000
+MTEXT entity, line 17472
+WARNING (017472): Entity expected, found 'MTEXT' - ignored.
+ARC entity, line 17512
+WARNING (017522): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+ARC: layer="0", c=(52406,565315), r=347604, start=350.9ø, end=9.1ø
+LINE entity, line 17544
+WARNING (017554): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(395645,620229), p2=(408684,622315)
+ARC entity, line 17574
+WARNING (017584): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+ARC: layer="0", c=(52406,565315), r=360809, start=350.9ø, end=9.1ø
+LINE entity, line 17606
+WARNING (017616): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(395645,510402), p2=(408684,508316)
+SPLINE entity, line 17636
+WARNING (017646): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=23
+LINE entity, line 17834
+WARNING (017844): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(383638,643673), p2=(383638,630468)
+SPLINE entity, line 17864
+WARNING (017874): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=53
+SPLINE entity, line 18302
+WARNING (018312): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=23
+SPLINE entity, line 18500
+WARNING (018510): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=53
+LINE entity, line 18938
+WARNING (018948): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(383638,500163), p2=(383638,486958)
+SPLINE entity, line 18968
+WARNING (018978): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=23
+LINE entity, line 19166
+WARNING (019176): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(221815,500163), p2=(221815,486958)
+SPLINE entity, line 19196
+WARNING (019206): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=53
+LINE entity, line 19634
+WARNING (019644): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(196769,508316), p2=(209808,510402)
+ARC entity, line 19664
+WARNING (019674): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+ARC: layer="0", c=(553047,565315), r=360809, start=170.9ø, end=189.1ø
+LINE entity, line 19696
+WARNING (019706): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(196769,622315), p2=(209808,620229)
+ARC entity, line 19726
+WARNING (019736): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+ARC: layer="0", c=(553047,565315), r=347604, start=170.9ø, end=189.1ø
+SPLINE entity, line 19758
+WARNING (019768): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=53
+LINE entity, line 20196
+WARNING (020206): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(221815,643673), p2=(221815,630468)
+SPLINE entity, line 20226
+WARNING (020236): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=23
+LINE entity, line 20424
+WARNING (020434): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(221815,643673), p2=(383638,643673)
+LINE entity, line 20454
+WARNING (020464): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(383638,630468), p2=(221815,630468)
+LINE entity, line 20484
+WARNING (020494): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(221815,500163), p2=(383638,500163)
+LINE entity, line 20514
+WARNING (020524): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(383638,486958), p2=(221815,486958)
+ARC entity, line 20544
+WARNING (020554): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+ARC: layer="0", c=(52406,565315), r=343794, start=350.9ø, end=9.1ø
+SPLINE entity, line 20576
+WARNING (020586): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=20
+LINE entity, line 20750
+WARNING (020760): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(383643,626658), p2=(221812,626658)
+SPLINE entity, line 20780
+WARNING (020790): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=20
+ARC entity, line 20954
+WARNING (020964): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+ARC: layer="0", c=(553047,565315), r=343794, start=170.9ø, end=189.1ø
+SPLINE entity, line 20986
+WARNING (020996): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=20
+LINE entity, line 21160
+WARNING (021170): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(221811,503973), p2=(383642,503973)
+SPLINE entity, line 21190
+WARNING (021200): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=20
+LINE entity, line 21364
+WARNING (021374): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(213570,511000), p2=(216079,511399)
+SPLINE entity, line 21394
+WARNING (021404): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=13
+LINE entity, line 21512
+WARNING (021522): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(221807,506511), p2=(383644,506512)
+SPLINE entity, line 21542
+WARNING (021552): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=12
+SPLINE entity, line 21652
+WARNING (021662): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=11
+SPLINE entity, line 21754
+WARNING (021764): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=13
+LINE entity, line 21872
+WARNING (021882): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(383646,624120), p2=(221809,624119)
+SPLINE entity, line 21902
+WARNING (021912): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=12
+LINE entity, line 22012
+WARNING (022022): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(213571,619632), p2=(216080,619233)
+SPLINE entity, line 22042
+WARNING (022052): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=11
+LINE entity, line 22144
+WARNING (022154): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(383646,623987), p2=(383646,624120)
+LWPOLYLINE entity, line 22174
+WARNING (022184): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=9, 0=(383646,623987), 1=(377541,623986), 2=(353124,623984), 3=(328706,623984), 4=(304289,623985), 5=(292080,623985), 6=(267663,623984), 7=(244736,623985), 8=(221809,623985)
+LINE entity, line 22234
+WARNING (022244): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(221809,623985), p2=(221809,624119)
+LINE entity, line 22264
+WARNING (022274): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(221807,506644), p2=(221807,506511)
+LWPOLYLINE entity, line 22294
+WARNING (022304): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=9, 0=(221807,506644), 1=(227912,506645), 2=(252329,506646), 3=(276747,506646), 4=(301164,506646), 5=(313373,506646), 6=(337790,506646), 7=(360717,506646), 8=(383644,506645)
+LINE entity, line 22354
+WARNING (022364): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(383644,506645), p2=(383644,506512)
+SPLINE entity, line 22384
+WARNING (022394): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=16
+LINE entity, line 22526
+WARNING (022536): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(216211,619213), p2=(216080,619233)
+LINE entity, line 22556
+WARNING (022566): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(389243,619211), p2=(389375,619232)
+SPLINE entity, line 22586
+WARNING (022596): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=16
+SPLINE entity, line 22728
+WARNING (022738): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=16
+LINE entity, line 22870
+WARNING (022880): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(389244,511418), p2=(389375,511397)
+LINE entity, line 22900
+WARNING (022910): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(216211,511420), p2=(216079,511399)
+SPLINE entity, line 22930
+WARNING (022940): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=19
+SPLINE entity, line 23096
+WARNING (023106): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=14
+SPLINE entity, line 23222
+WARNING (023232): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=17
+SPLINE entity, line 23372
+WARNING (023382): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=28
+LINE entity, line 23610
+WARNING (023620): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(409860,623802), p2=(408684,622315)
+LWPOLYLINE entity, line 23640
+WARNING (023650): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=3, 0=(383638,643673), 1=(384058,644166), 2=(384828,645071)
+SPLINE entity, line 23676
+WARNING (023686): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=28
+LINE entity, line 23914
+WARNING (023924): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(195593,506829), p2=(196769,508316)
+LWPOLYLINE entity, line 23944
+WARNING (023954): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=3, 0=(221815,486958), 1=(221395,486465), 2=(220625,485559)
+SPLINE entity, line 23980
+WARNING (023990): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=28
+LWPOLYLINE entity, line 24218
+WARNING (024228): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=3, 0=(220625,645071), 1=(221395,644166), 2=(221815,643673)
+LINE entity, line 24254
+WARNING (024264): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(196769,622315), p2=(195593,623802)
+SPLINE entity, line 24284
+WARNING (024294): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=28
+LWPOLYLINE entity, line 24522
+WARNING (024532): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=3, 0=(384828,485559), 1=(384058,486465), 2=(383638,486958)
+LINE entity, line 24558
+WARNING (024568): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(408684,508316), p2=(409860,506829)
+LINE entity, line 24588
+WARNING (024598): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(384828,645071), p2=(220625,645071)
+LINE entity, line 24618
+WARNING (024628): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(220625,485559), p2=(384828,485559)
+ARC entity, line 24648
+WARNING (024658): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+ARC: layer="0", c=(553047,565315), r=362208, start=170.7ø, end=189.3ø
+ARC entity, line 24680
+WARNING (024690): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+ARC: layer="0", c=(52406,565315), r=362208, start=350.7ø, end=9.3ø
+POINT entity, line 24712
+WARNING (024712): Entity expected, found 'POINT' - ignored.
+POINT entity, line 24730
+WARNING (024730): Entity expected, found 'POINT' - ignored.
+DIMENSION entity, line 24748
+WARNING (024748): Entity expected, found 'DIMENSION' - ignored.
+DIMENSION entity, line 24800
+WARNING (024800): Entity expected, found 'DIMENSION' - ignored.
+DIMENSION entity, line 24852
+WARNING (024852): Entity expected, found 'DIMENSION' - ignored.
+DIMENSION entity, line 24904
+WARNING (024904): Entity expected, found 'DIMENSION' - ignored.
+LINE entity, line 24956
+WARNING (024966): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(363052,698715), p2=(363052,436002)
+LINE entity, line 24986
+WARNING (024996): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(330794,693635), p2=(363052,693635)
+SOLID entity, line 25016
+WARNING (025026): SOLID/TRACE/3DFACE entity group 6 unknown/not supported - ignored.
+T.SOLID: layer="0", p1=(363052,693635), p2=(346923,696215), p3=(346923,691054)
+LINE entity, line 25058
+WARNING (025068): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(330794,441082), p2=(363052,441082)
+SOLID entity, line 25088
+WARNING (025098): SOLID/TRACE/3DFACE entity group 6 unknown/not supported - ignored.
+T.SOLID: layer="0", p1=(363052,441082), p2=(346923,443663), p3=(346923,438502)
+MTEXT entity, line 25130
+WARNING (025130): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 25168
+WARNING (025168): Entity expected, found 'MTEXT' - ignored.
+LINE entity, line 25206
+WARNING (025216): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(557198,626996), p2=(546784,626723)
+LINE entity, line 25236
+WARNING (025246): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(546784,611858), p2=(570914,611226)
+LINE entity, line 25266
+WARNING (025276): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(570914,519405), p2=(546784,518773)
+LINE entity, line 25296
+WARNING (025306): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(546784,503908), p2=(557198,503635)
+LINE entity, line 25326
+WARNING (025336): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(580566,630468), p2=(570945,643661)
+SPLINE entity, line 25356
+WARNING (025366): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=9
+SPLINE entity, line 25442
+WARNING (025452): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x18, degree=3, num knots=13
+LINE entity, line 25560
+WARNING (025570): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(580566,510999), p2=(580566,619631)
+SPLINE entity, line 25590
+WARNING (025600): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x18, degree=3, num knots=12
+LWPOLYLINE entity, line 25700
+WARNING (025710): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=4, 0=(578026,506513), 1=(578676,505863), 2=(579326,505213), 3=(580566,503973)
+SPLINE entity, line 25740
+WARNING (025750): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x18, degree=3, num knots=15
+SPLINE entity, line 25874
+WARNING (025884): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x18, degree=3, num knots=11
+SPLINE entity, line 25976
+WARNING (025986): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x18, degree=3, num knots=15
+LWPOLYLINE entity, line 26110
+WARNING (026120): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=4, 0=(580566,626658), 1=(579916,626008), 2=(579266,625358), 3=(578026,624118)
+LINE entity, line 26150
+WARNING (026160): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(544244,485559), p2=(544244,488099)
+LINE entity, line 26180
+WARNING (026190): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(544244,488099), p2=(546784,488232)
+LINE entity, line 26210
+WARNING (026220): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(546784,488232), p2=(546784,490779)
+LINE entity, line 26240
+WARNING (026250): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(568248,491904), p2=(546784,490779)
+LINE entity, line 26270
+WARNING (026280): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(568248,491904), p2=(575303,501569)
+LWPOLYLINE entity, line 26300
+WARNING (026310): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=3, 0=(570914,501799), 1=(572753,501702), 2=(575303,501569)
+LINE entity, line 26336
+WARNING (026346): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(570914,501799), p2=(570914,502450)
+LINE entity, line 26366
+WARNING (026376): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(570914,502450), p2=(557198,502690)
+LINE entity, line 26396
+WARNING (026406): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(557198,502690), p2=(557198,506006)
+LINE entity, line 26426
+WARNING (026436): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(557198,506006), p2=(570914,506006)
+LINE entity, line 26456
+WARNING (026466): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(570914,506006), p2=(570914,510832)
+LINE entity, line 26486
+WARNING (026496): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(570914,510832), p2=(557198,510832)
+LINE entity, line 26516
+WARNING (026526): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(557198,510832), p2=(557198,514149)
+LINE entity, line 26546
+WARNING (026556): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(557198,514149), p2=(570914,514388)
+LINE entity, line 26576
+WARNING (026586): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(570914,514388), p2=(570914,616242)
+LINE entity, line 26606
+WARNING (026616): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(570914,616242), p2=(557198,616482)
+LINE entity, line 26636
+WARNING (026646): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(557198,619798), p2=(557198,616482)
+LINE entity, line 26666
+WARNING (026676): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(557198,619798), p2=(570914,619798)
+LINE entity, line 26696
+WARNING (026706): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(570914,619798), p2=(570914,624624)
+LINE entity, line 26726
+WARNING (026736): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(570914,624624), p2=(557198,624624)
+LINE entity, line 26756
+WARNING (026766): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(557198,627941), p2=(557198,624624)
+LINE entity, line 26786
+WARNING (026796): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(557198,627941), p2=(570914,628180)
+LINE entity, line 26816
+WARNING (026826): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(570914,628180), p2=(570914,628832)
+LWPOLYLINE entity, line 26846
+WARNING (026856): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=3, 0=(575303,629062), 1=(573491,628967), 2=(570914,628832)
+LINE entity, line 26882
+WARNING (026892): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(575303,629062), p2=(568248,638726)
+LINE entity, line 26912
+WARNING (026922): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(546784,639851), p2=(568248,638726)
+LINE entity, line 26942
+WARNING (026952): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(546784,639851), p2=(546784,642398)
+LINE entity, line 26972
+WARNING (026982): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(546784,642398), p2=(544244,642531)
+LINE entity, line 27002
+WARNING (027012): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(544244,642531), p2=(544244,645071)
+LINE entity, line 27032
+WARNING (027042): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(544244,645071), p2=(570927,643673)
+LINE entity, line 27062
+WARNING (027072): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(580566,630468), p2=(570927,643673)
+LINE entity, line 27092
+WARNING (027102): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(580566,626658), p2=(580566,630468)
+LINE entity, line 27122
+WARNING (027132): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(575486,506646), p2=(575486,623985)
+LINE entity, line 27152
+WARNING (027162): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(575486,506646), p2=(578026,506513)
+LINE entity, line 27182
+WARNING (027192): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(580566,500163), p2=(580566,503973)
+LINE entity, line 27212
+WARNING (027222): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(570927,486958), p2=(580566,500163)
+LINE entity, line 27242
+WARNING (027252): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(570927,486958), p2=(544244,485559)
+LINE entity, line 27272
+WARNING (027282): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(578026,624118), p2=(575486,623985)
+LINE entity, line 27302
+WARNING (027312): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(570914,628834), p2=(575301,629064)
+LWPOLYLINE entity, line 27332
+WARNING (027342): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=3, 0=(570914,501798), 1=(574083,501632), 2=(575302,501568)
+LINE entity, line 27368
+WARNING (027378): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(557198,624624), p2=(557198,619798)
+LINE entity, line 27398
+WARNING (027408): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(557198,510832), p2=(557198,506006)
+LINE entity, line 27428
+WARNING (027438): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(546784,626723), p2=(546784,611858)
+LINE entity, line 27458
+WARNING (027468): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(546784,518773), p2=(546784,503908)
+SPLINE entity, line 27488
+WARNING (027498): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=20
+SPLINE entity, line 27662
+WARNING (027672): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x18, degree=3, num knots=19
+SPLINE entity, line 27828
+WARNING (027838): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=18
+SPLINE entity, line 27986
+WARNING (027996): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x18, degree=3, num knots=18
+LINE entity, line 28144
+WARNING (028154): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(575486,511418), p2=(578026,511397)
+LINE entity, line 28174
+WARNING (028184): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(575486,619211), p2=(578026,619232)
+LINE entity, line 28204
+WARNING (028214): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(546784,507260), p2=(544244,507239)
+SPLINE entity, line 28234
+WARNING (028244): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x18, degree=3, num knots=26
+LINE entity, line 28456
+WARNING (028466): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(546784,623370), p2=(544244,623392)
+SPLINE entity, line 28486
+WARNING (028496): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x18, degree=3, num knots=26
+LINE entity, line 28708
+WARNING (028718): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(568248,611301), p2=(568248,519332)
+LINE entity, line 28738
+WARNING (028748): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(546784,518773), p2=(546784,611858)
+LINE entity, line 28768
+WARNING (028778): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(544244,623392), p2=(544244,507239)
+HATCH entity, line 28798
+WARNING (028798): Entity expected, found 'HATCH' - ignored.
+DIMENSION entity, line 29584
+WARNING (029584): Entity expected, found 'DIMENSION' - ignored.
+DIMENSION entity, line 29634
+WARNING (029634): Entity expected, found 'DIMENSION' - ignored.
+DIMENSION entity, line 29684
+WARNING (029684): Entity expected, found 'DIMENSION' - ignored.
+DIMENSION entity, line 29734
+WARNING (029734): Entity expected, found 'DIMENSION' - ignored.
+MTEXT entity, line 29784
+WARNING (029784): Entity expected, found 'MTEXT' - ignored.
+LINE entity, line 29818
+WARNING (029828): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(407222,192942), p2=(407354,192921)
+ARC entity, line 29848
+WARNING (029858): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+ARC: layer="0", c=(52406,250997), r=359535, start=350.7ø, end=9.3ø
+LINE entity, line 29880
+WARNING (029890): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(407222,309052), p2=(407354,309073)
+ARC entity, line 29910
+WARNING (029920): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+ARC: layer="0", c=(52406,250997), r=359668, start=350.7ø, end=9.3ø
+LINE entity, line 29942
+WARNING (029952): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(384828,173914), p2=(384828,173781)
+SPLINE entity, line 29972
+WARNING (029982): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=26
+SPLINE entity, line 30194
+WARNING (030204): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=26
+LINE entity, line 30416
+WARNING (030426): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(220625,173914), p2=(220625,173781)
+LINE entity, line 30446
+WARNING (030456): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(220625,173914), p2=(384828,173914)
+LINE entity, line 30476
+WARNING (030486): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(220625,173781), p2=(384828,173781)
+LINE entity, line 30506
+WARNING (030516): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(198231,192942), p2=(198099,192921)
+SPLINE entity, line 30536
+WARNING (030546): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=26
+SPLINE entity, line 30758
+WARNING (030768): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=26
+LINE entity, line 30980
+WARNING (030990): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(198231,309052), p2=(198099,309073)
+ARC entity, line 31010
+WARNING (031020): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+ARC: layer="0", c=(553047,250997), r=359535, start=170.7ø, end=189.3ø
+ARC entity, line 31042
+WARNING (031052): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+ARC: layer="0", c=(553047,250997), r=359668, start=170.7ø, end=189.3ø
+SPLINE entity, line 31074
+WARNING (031084): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=26
+LINE entity, line 31296
+WARNING (031306): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(384828,328080), p2=(384828,328213)
+SPLINE entity, line 31326
+WARNING (031336): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=26
+SPLINE entity, line 31548
+WARNING (031558): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=28
+LINE entity, line 31786
+WARNING (031796): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(220625,330753), p2=(384828,330753)
+SPLINE entity, line 31816
+WARNING (031826): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=28
+ARC entity, line 32054
+WARNING (032064): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+ARC: layer="0", c=(52406,250997), r=362208, start=350.7ø, end=9.3ø
+SPLINE entity, line 32086
+WARNING (032096): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=28
+LINE entity, line 32324
+WARNING (032334): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(384828,171241), p2=(220625,171241)
+SPLINE entity, line 32354
+WARNING (032364): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=28
+ARC entity, line 32592
+WARNING (032602): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+ARC: layer="0", c=(553047,250997), r=362208, start=170.7ø, end=189.3ø
+LINE entity, line 32624
+WARNING (032634): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(384828,328213), p2=(220625,328213)
+SPLINE entity, line 32654
+WARNING (032664): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=26
+LINE entity, line 32876
+WARNING (032886): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(384828,328080), p2=(220625,328080)
+LINE entity, line 32906
+WARNING (032916): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(220625,328080), p2=(220625,328213)
+SPLINE entity, line 32936
+WARNING (032946): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=26
+SPLINE entity, line 33158
+WARNING (033168): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=22
+LINE entity, line 33348
+WARNING (033358): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(220750,176461), p2=(221708,177586)
+SPLINE entity, line 33378
+WARNING (033388): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=26
+LWPOLYLINE entity, line 33600
+WARNING (033610): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=3, 0=(201671,194666), 1=(201362,194281), 2=(200723,193484)
+LINE entity, line 33636
+WARNING (033646): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(200723,308510), p2=(201671,307328)
+ARC entity, line 33666
+WARNING (033676): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+ARC: layer="0", c=(553047,250997), r=355863, start=170.9ø, end=189.1ø
+ARC entity, line 33698
+WARNING (033708): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+ARC: layer="0", c=(553047,250997), r=356988, start=170.7ø, end=189.3ø
+SPLINE entity, line 33730
+WARNING (033740): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=22
+LINE entity, line 33920
+WARNING (033930): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(404730,193484), p2=(403782,194666)
+SPLINE entity, line 33950
+WARNING (033960): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=26
+LWPOLYLINE entity, line 34172
+WARNING (034182): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=3, 0=(383746,177586), 1=(384058,177220), 2=(384703,176461)
+LINE entity, line 34208
+WARNING (034218): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(221762,177586), p2=(383746,177586)
+LINE entity, line 34238
+WARNING (034248): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(384703,176461), p2=(220750,176461)
+LINE entity, line 34268
+WARNING (034278): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(384703,325533), p2=(383745,324408)
+LINE entity, line 34298
+WARNING (034308): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(383745,324408), p2=(221762,324408)
+LWPOLYLINE entity, line 34328
+WARNING (034338): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=3, 0=(221708,324408), 1=(221395,324775), 2=(220750,325533)
+LINE entity, line 34364
+WARNING (034374): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(220750,325533), p2=(384703,325533)
+SPLINE entity, line 34394
+WARNING (034404): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=22
+SPLINE entity, line 34584
+WARNING (034594): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=28
+ARC entity, line 34822
+WARNING (034832): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+ARC: layer="0", c=(52406,250997), r=355863, start=350.9ø, end=9.1ø
+LWPOLYLINE entity, line 34854
+WARNING (034864): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=3, 0=(403782,307328), 1=(404091,307713), 2=(404730,308510)
+ARC entity, line 34890
+WARNING (034900): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+ARC: layer="0", c=(52406,250997), r=356988, start=350.7ø, end=9.3ø
+SPLINE entity, line 34922
+WARNING (034932): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=22
+SPLINE entity, line 35112
+WARNING (035122): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=28
+CIRCLE entity, line 35350
+WARNING (035360): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(220812,304972), r=7433
+CIRCLE entity, line 35376
+WARNING (035386): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(220812,304972), r=3048
+CIRCLE entity, line 35402
+WARNING (035412): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(384642,197022), r=7433
+CIRCLE entity, line 35428
+WARNING (035438): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(384642,197022), r=3048
+CIRCLE entity, line 35454
+WARNING (035464): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(220812,197022), r=7433
+CIRCLE entity, line 35480
+WARNING (035490): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(220812,197022), r=3048
+CIRCLE entity, line 35506
+WARNING (035516): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(384642,304972), r=7433
+CIRCLE entity, line 35532
+WARNING (035542): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(384642,304972), r=3048
+CIRCLE entity, line 35558
+WARNING (035568): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(220812,304972), r=8064
+CIRCLE entity, line 35584
+WARNING (035594): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(220812,197022), r=8064
+CIRCLE entity, line 35610
+WARNING (035620): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(384642,304972), r=8064
+CIRCLE entity, line 35636
+WARNING (035646): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(384642,197022), r=8064
+CIRCLE entity, line 35662
+WARNING (035672): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(242402,194101), r=5730
+CIRCLE entity, line 35688
+WARNING (035698): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(242402,194101), r=2413
+CIRCLE entity, line 35714
+WARNING (035724): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(363052,307893), r=5730
+CIRCLE entity, line 35740
+WARNING (035750): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(363052,307893), r=2413
+CIRCLE entity, line 35766
+WARNING (035776): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(363052,194101), r=5969
+CIRCLE entity, line 35792
+WARNING (035802): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(363052,194101), r=5730
+CIRCLE entity, line 35818
+WARNING (035828): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(363052,307893), r=5969
+CIRCLE entity, line 35844
+WARNING (035854): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(363052,194101), r=2413
+CIRCLE entity, line 35870
+WARNING (035880): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(242402,194101), r=5969
+CIRCLE entity, line 35896
+WARNING (035906): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(242402,307893), r=5969
+CIRCLE entity, line 35922
+WARNING (035932): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(242402,307893), r=5730
+CIRCLE entity, line 35948
+WARNING (035958): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(242402,307893), r=2413
+SPLINE entity, line 35974
+WARNING (035984): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=22
+SPLINE entity, line 36164
+WARNING (036174): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 36242
+WARNING (036252): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 36320
+WARNING (036330): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=22
+SPLINE entity, line 36510
+WARNING (036520): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=8
+LINE entity, line 36588
+WARNING (036598): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(201653,194779), p2=(211196,196306)
+SPLINE entity, line 36618
+WARNING (036628): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=22
+LINE entity, line 36808
+WARNING (036818): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(383638,314744), p2=(383638,324407)
+SPLINE entity, line 36838
+WARNING (036848): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=8
+SPLINE entity, line 36916
+WARNING (036926): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=22
+LINE entity, line 37106
+WARNING (037116): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(394258,196306), p2=(403799,194779)
+LINE entity, line 37136
+WARNING (037146): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(383638,177586), p2=(383638,187249)
+LWPOLYLINE entity, line 37166
+WARNING (037176): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=9, 0=(221809,187250), 1=(236538,187250), 2=(265996,187251), 3=(295454,187250), 4=(324911,187251), 5=(339640,187251), 6=(354369,187251), 7=(369007,187250), 8=(383645,187248)
+SPLINE entity, line 37226
+WARNING (037236): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=18
+LWPOLYLINE entity, line 37384
+WARNING (037394): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=9, 0=(383644,314745), 1=(368914,314744), 2=(339454,314744), 3=(309995,314744), 4=(280535,314743), 5=(265805,314743), 6=(251075,314743), 7=(236442,314744), 8=(221808,314746)
+SPLINE entity, line 37444
+WARNING (037454): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=18
+LINE entity, line 37602
+WARNING (037612): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(221808,314516), p2=(221808,314746)
+SPLINE entity, line 37632
+WARNING (037642): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=20
+LWPOLYLINE entity, line 37806
+WARNING (037816): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=3, 0=(211424,305659), 1=(211311,305677), 2=(211197,305695)
+SPLINE entity, line 37842
+WARNING (037852): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=20
+SPLINE entity, line 38016
+WARNING (038026): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=16
+SPLINE entity, line 38158
+WARNING (038168): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=20
+LWPOLYLINE entity, line 38332
+WARNING (038342): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=6, 0=(383645,187478), 1=(360621,187480), 2=(310001,187480), 3=(295272,187480), 4=(236356,187480), 5=(221809,187480)
+SPLINE entity, line 38380
+WARNING (038390): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=20
+SPLINE entity, line 38554
+WARNING (038564): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=16
+LWPOLYLINE entity, line 38696
+WARNING (038706): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=6, 0=(221808,314516), 1=(236538,314514), 2=(295457,314514), 3=(310187,314514), 4=(369107,314514), 5=(383644,314515)
+LWPOLYLINE entity, line 38744
+WARNING (038754): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=3, 0=(211423,196346), 1=(211259,196320), 2=(211195,196310)
+LWPOLYLINE entity, line 38780
+WARNING (038790): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=3, 0=(383644,314515), 1=(383644,314681), 2=(383644,314745)
+LWPOLYLINE entity, line 38816
+WARNING (038826): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=3, 0=(221809,187480), 1=(221809,187313), 2=(221809,187250)
+LINE entity, line 38852
+WARNING (038862): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(383645,187478), p2=(383645,187248)
+LWPOLYLINE entity, line 38882
+WARNING (038892): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=3, 0=(394030,196336), 1=(394194,196310), 2=(394257,196300)
+LINE entity, line 38918
+WARNING (038928): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(394031,305659), p2=(394258,305696)
+DIMENSION entity, line 38948
+WARNING (038948): Entity expected, found 'DIMENSION' - ignored.
+DIMENSION entity, line 38998
+WARNING (038998): Entity expected, found 'DIMENSION' - ignored.
+DIMENSION entity, line 39050
+WARNING (039050): Entity expected, found 'DIMENSION' - ignored.
+DIMENSION entity, line 39100
+WARNING (039100): Entity expected, found 'DIMENSION' - ignored.
+INSERT entity, line 39152
+INSERT: layer="LAYER_1", name="SW_CENTERMARKSYMBOL_0", o=(220812,304972), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 39172
+INSERT: layer="LAYER_1", name="SW_CENTERMARKSYMBOL_1", o=(384642,304972), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 39192
+INSERT: layer="LAYER_1", name="SW_CENTERMARKSYMBOL_2", o=(384642,197022), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 39212
+INSERT: layer="LAYER_1", name="SW_CENTERMARKSYMBOL_3", o=(220812,197022), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 39232
+INSERT: layer="LAYER_1", name="SW_CENTERMARKSYMBOL_4", o=(242402,307893), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 39252
+INSERT: layer="LAYER_1", name="SW_CENTERMARKSYMBOL_5", o=(363052,307893), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 39272
+INSERT: layer="LAYER_1", name="SW_CENTERMARKSYMBOL_6", o=(363052,194101), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 39292
+INSERT: layer="LAYER_1", name="SW_CENTERMARKSYMBOL_7", o=(242402,194101), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINE entity, line 39312
+WARNING (039322): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(947690,297319), p2=(945851,319197)
+LINE entity, line 39342
+WARNING (039352): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(705846,341971), p2=(704005,319918)
+LINE entity, line 39372
+WARNING (039382): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(804190,399157), p2=(802515,399000)
+LINE entity, line 39402
+WARNING (039412): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(809559,399031), p2=(807809,399177)
+SPLINE entity, line 39432
+WARNING (039442): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=23
+LINE entity, line 39630
+WARNING (039640): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(852722,277220), p2=(860467,263176)
+SPLINE entity, line 39660
+WARNING (039670): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=53
+LINE entity, line 40098
+WARNING (040108): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(836991,277942), p2=(827654,264681)
+SPLINE entity, line 40128
+WARNING (040138): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=28
+LWPOLYLINE entity, line 40366
+WARNING (040376): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=3, 0=(827507,241837), 1=(827602,256628), 2=(827654,264681)
+LINE entity, line 40402
+WARNING (040412): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(860467,263176), p2=(860247,240301)
+ARC entity, line 40432
+WARNING (040442): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+ARC: layer="0", c=(730089,579328), r=326048, start=292.1ø, end=307.9ø
+LINE entity, line 40464
+WARNING (040474): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(930381,322052), p2=(941077,309710)
+ARC entity, line 40494
+WARNING (040504): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+ARC: layer="0", c=(732484,577958), r=339806, start=292.1ø, end=307.9ø
+LINE entity, line 40526
+WARNING (040536): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(722566,343999), p2=(836991,277942)
+SPLINE entity, line 40556
+WARNING (040566): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=23
+ARC entity, line 40754
+WARNING (040764): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+ARC: layer="0", c=(921607,95804), r=326048, start=112.1ø, end=127.9ø
+SPLINE entity, line 40786
+WARNING (040796): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=23
+LINE entity, line 40984
+WARNING (040994): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(929131,331133), p2=(814705,397190)
+SPLINE entity, line 41014
+WARNING (041024): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=23
+ARC entity, line 41212
+WARNING (041222): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+ARC: layer="0", c=(729198,577798), r=322475, start=292.1ø, end=307.9ø
+SPLINE entity, line 41244
+WARNING (041254): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=20
+LINE entity, line 41418
+WARNING (041428): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(926440,329576), p2=(812008,395636)
+SPLINE entity, line 41448
+WARNING (041458): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=20
+ARC entity, line 41622
+WARNING (041632): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+ARC: layer="0", c=(922498,97334), r=322475, start=112.1ø, end=127.9ø
+SPLINE entity, line 41654
+WARNING (041664): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=20
+LINE entity, line 41828
+WARNING (041838): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(725256,345556), p2=(839688,279496)
+SPLINE entity, line 41858
+WARNING (041868): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=20
+ARC entity, line 42032
+WARNING (042042): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+ARC: layer="0", c=(733107,556051), r=340387, start=291.9ø, end=308.1ø
+LINE entity, line 42064
+WARNING (042074): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(942960,288049), p2=(941077,309710)
+LINE entity, line 42094
+WARNING (042104): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(827654,264681), p2=(713228,330738)
+LINE entity, line 42124
+WARNING (042134): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(722566,343999), p2=(713228,330738)
+LINE entity, line 42154
+WARNING (042164): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(724398,351788), p2=(726455,348853)
+SPLINE entity, line 42184
+WARNING (042194): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=13
+SPLINE entity, line 42302
+WARNING (042312): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=12
+SPLINE entity, line 42412
+WARNING (042422): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=13
+LINE entity, line 42530
+WARNING (042540): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(924648,326465), p2=(810211,392527)
+SPLINE entity, line 42560
+WARNING (042570): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=12
+LINE entity, line 42670
+WARNING (042680): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(801213,396132), p2=(802705,392871)
+LWPOLYLINE entity, line 42700
+WARNING (042710): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=3, 0=(713228,330738), 1=(712583,323028), 2=(711398,308865)
+LINE entity, line 42736
+WARNING (042746): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(711398,308865), p2=(827507,241837)
+SPLINE entity, line 42766
+WARNING (042776): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=9
+SPLINE entity, line 42852
+WARNING (042862): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=17
+SPLINE entity, line 43002
+WARNING (043012): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=16
+LWPOLYLINE entity, line 43144
+WARNING (043154): LWPOLYLINE entity group 6 unknown/not supported - ignored.
+LWPOLYLINE: layer="0", flags=0x80, #pts=9, 0=(924554,324336), 1=(920237,326828), 2=(902970,336794), 3=(885704,346762), 4=(868439,356729), 5=(859806,361713), 6=(842540,371680), 7=(826328,381039), 8=(810117,390398)
+SPLINE entity, line 43204
+WARNING (043214): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=10
+LINE entity, line 43298
+WARNING (043308): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(938468,328653), p2=(929131,331133)
+SPLINE entity, line 43328
+WARNING (043338): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=53
+SPLINE entity, line 43766
+WARNING (043776): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=12
+LINE entity, line 43876
+WARNING (043886): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(924554,324336), p2=(924648,326465)
+LINE entity, line 43906
+WARNING (043916): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(810117,390398), p2=(810211,392527)
+LINE entity, line 43936
+WARNING (043946): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(824043,394710), p2=(938468,328653)
+LINE entity, line 43966
+WARNING (043976): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(824043,394710), p2=(814705,397190)
+SPLINE entity, line 43996
+WARNING (044006): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=53
+LINE entity, line 44434
+WARNING (044444): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(710620,349680), p2=(721315,353080)
+SPLINE entity, line 44464
+WARNING (044474): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=12
+LINE entity, line 44574
+WARNING (044584): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(726562,346734), p2=(726455,348853)
+SPLINE entity, line 44604
+WARNING (044614): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=11
+LINE entity, line 44706
+WARNING (044716): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(802784,390735), p2=(802705,392871)
+ARC entity, line 44736
+WARNING (044746): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+ARC: layer="0", c=(919213,81433), r=339806, start=112.1ø, end=127.9ø
+LINE entity, line 44768
+WARNING (044778): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(791229,396215), p2=(798975,397911)
+SPLINE entity, line 44798
+WARNING (044808): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=12
+SPLINE entity, line 44908
+WARNING (044918): SPLINE entity group 6 unknown/not supported - ignored.
+SPLINE: layer="0", flags=0x08, degree=3, num knots=13
+EXPORT ARC: Unmapped arc: o=(52406,565315), r=347604, sa=350.9ø, ea=  9.1ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(343229,-54976) max=1738
+   c1=(343229,-54976), c2=(343229,0), c3=(343229,54976), cs=350.9ø, cm=360.0ø, ce=369.1ø, pt=(347604,0), d=4375
+   c1=(343229,-54976), c2=(345416,-27488), c3=(347604,0), cs=350.9ø, cm=355.4ø, ce=360.0ø, pt=(346484,-27877), d=1136
+LINEARISING DONE. c3=(347604,0) cs=360.0ø (end=369.1)
+LINEARISING: c1=(347604,0) max=1738
+   c1=(347604,0), c2=(345416,27488), c3=(343229,54976), cs=360.0ø, cm=364.5ø, ce=369.1ø, pt=(346532,27273), d=1136
+LINEARISING DONE. c3=(343229,54976) cs=369.1ø (end=369.1)
+EXPORT ARC: Arc linearised to 3 points.
+EXPORT ARC: Unmapped arc: o=(52406,565315), r=360809, sa=350.9ø, ea=  9.1ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(356268,-57065) max=1804
+   c1=(356268,-57065), c2=(356268,0), c3=(356268,57065), cs=350.9ø, cm=360.0ø, ce=369.1ø, pt=(360809,0), d=4541
+   c1=(356268,-57065), c2=(358538,-28532), c3=(360809,0), cs=350.9ø, cm=355.4ø, ce=360.0ø, pt=(359647,-28936), d=1180
+LINEARISING DONE. c3=(360809,0) cs=360.0ø (end=369.1)
+LINEARISING: c1=(360809,0) max=1804
+   c1=(360809,0), c2=(358538,28532), c3=(356268,57065), cs=360.0ø, cm=364.5ø, ce=369.1ø, pt=(359697,28309), d=1180
+LINEARISING DONE. c3=(356268,57065) cs=369.1ø (end=369.1)
+EXPORT ARC: Arc linearised to 3 points.
+EXPORT ARC: Unmapped arc: o=(553047,565315), r=360809, sa=170.9ø, ea=189.1ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(-356268,57065) max=1804
+   c1=(-356268,57065), c2=(-356268,0), c3=(-356268,-57065), cs=170.9ø, cm=180.0ø, ce=189.1ø, pt=(-360809,0), d=4541
+   c1=(-356268,57065), c2=(-358538,28532), c3=(-360809,0), cs=170.9ø, cm=175.4ø, ce=180.0ø, pt=(-359647,28936), d=1180
+LINEARISING DONE. c3=(-360809,0) cs=180.0ø (end=189.1)
+LINEARISING: c1=(-360809,0) max=1804
+   c1=(-360809,0), c2=(-358538,-28532), c3=(-356268,-57065), cs=180.0ø, cm=184.5ø, ce=189.1ø, pt=(-359697,-28309), d=1180
+LINEARISING DONE. c3=(-356268,-57065) cs=189.1ø (end=189.1)
+EXPORT ARC: Arc linearised to 3 points.
+EXPORT ARC: Unmapped arc: o=(553047,565315), r=347604, sa=170.9ø, ea=189.1ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(-343229,54976) max=1738
+   c1=(-343229,54976), c2=(-343229,0), c3=(-343229,-54976), cs=170.9ø, cm=180.0ø, ce=189.1ø, pt=(-347604,0), d=4375
+   c1=(-343229,54976), c2=(-345416,27488), c3=(-347604,0), cs=170.9ø, cm=175.4ø, ce=180.0ø, pt=(-346484,27877), d=1136
+LINEARISING DONE. c3=(-347604,0) cs=180.0ø (end=189.1)
+LINEARISING: c1=(-347604,0) max=1738
+   c1=(-347604,0), c2=(-345416,-27488), c3=(-343229,-54976), cs=180.0ø, cm=184.5ø, ce=189.1ø, pt=(-346532,-27273), d=1136
+LINEARISING DONE. c3=(-343229,-54976) cs=189.1ø (end=189.1)
+EXPORT ARC: Arc linearised to 3 points.
+EXPORT ARC: Unmapped arc: o=(52406,565315), r=343794, sa=350.9ø, ea=  9.1ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(339467,-54374) max=1718
+   c1=(339467,-54374), c2=(339467,0), c3=(339467,54374), cs=350.9ø, cm=360.0ø, ce=369.1ø, pt=(343794,0), d=4327
+   c1=(339467,-54374), c2=(341630,-27187), c3=(343794,0), cs=350.9ø, cm=355.4ø, ce=360.0ø, pt=(342687,-27572), d=1124
+LINEARISING DONE. c3=(343794,0) cs=360.0ø (end=369.1)
+LINEARISING: c1=(343794,0) max=1718
+   c1=(343794,0), c2=(341630,27187), c3=(339467,54374), cs=360.0ø, cm=364.5ø, ce=369.1ø, pt=(342734,26974), d=1124
+LINEARISING DONE. c3=(339467,54374) cs=369.1ø (end=369.1)
+EXPORT ARC: Arc linearised to 3 points.
+EXPORT ARC: Unmapped arc: o=(553047,565315), r=343794, sa=170.9ø, ea=189.1ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(-339467,54374) max=1718
+   c1=(-339467,54374), c2=(-339467,0), c3=(-339467,-54374), cs=170.9ø, cm=180.0ø, ce=189.1ø, pt=(-343794,0), d=4327
+   c1=(-339467,54374), c2=(-341630,27187), c3=(-343794,0), cs=170.9ø, cm=175.4ø, ce=180.0ø, pt=(-342687,27572), d=1124
+LINEARISING DONE. c3=(-343794,0) cs=180.0ø (end=189.1)
+LINEARISING: c1=(-343794,0) max=1718
+   c1=(-343794,0), c2=(-341630,-27187), c3=(-339467,-54374), cs=180.0ø, cm=184.5ø, ce=189.1ø, pt=(-342734,-26974), d=1124
+LINEARISING DONE. c3=(-339467,-54374) cs=189.1ø (end=189.1)
+EXPORT ARC: Arc linearised to 3 points.
+EXPORT ARC: Unmapped arc: o=(553047,565315), r=362208, sa=170.7ø, ea=189.3ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(-357447,58534) max=1811
+   c1=(-357447,58534), c2=(-357447,0), c3=(-357447,-58534), cs=170.7ø, cm=180.0ø, ce=189.3ø, pt=(-362208,0), d=4761
+   c1=(-357447,58534), c2=(-359827,29267), c3=(-362208,0), cs=170.7ø, cm=175.3ø, ce=180.0ø, pt=(-360990,29679), d=1233
+LINEARISING DONE. c3=(-362208,0) cs=180.0ø (end=189.3)
+LINEARISING: c1=(-362208,0) max=1811
+   c1=(-362208,0), c2=(-359827,-29267), c3=(-357447,-58534), cs=180.0ø, cm=184.6ø, ce=189.3ø, pt=(-361041,-29049), d=1233
+LINEARISING DONE. c3=(-357447,-58534) cs=189.3ø (end=189.3)
+EXPORT ARC: Arc linearised to 3 points.
+EXPORT ARC: Unmapped arc: o=(52406,565315), r=362208, sa=350.7ø, ea=  9.3ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(357447,-58534) max=1811
+   c1=(357447,-58534), c2=(357447,0), c3=(357447,58534), cs=350.7ø, cm=360.0ø, ce=369.3ø, pt=(362208,0), d=4761
+   c1=(357447,-58534), c2=(359827,-29267), c3=(362208,0), cs=350.7ø, cm=355.3ø, ce=360.0ø, pt=(360990,-29679), d=1233
+LINEARISING DONE. c3=(362208,0) cs=360.0ø (end=369.3)
+LINEARISING: c1=(362208,0) max=1811
+   c1=(362208,0), c2=(359827,29267), c3=(357447,58534), cs=360.0ø, cm=364.6ø, ce=369.3ø, pt=(361041,29049), d=1233
+LINEARISING DONE. c3=(357447,58534) cs=369.3ø (end=369.3)
+EXPORT ARC: Arc linearised to 3 points.
+EXPORT ARC: Unmapped arc: o=(52406,250997), r=359535, sa=350.7ø, ea=  9.3ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(354809,-58102) max=1797
+   c1=(354809,-58102), c2=(354809,0), c3=(354809,58102), cs=350.7ø, cm=360.0ø, ce=369.3ø, pt=(359535,0), d=4726
+   c1=(354809,-58102), c2=(357172,-29051), c3=(359535,0), cs=350.7ø, cm=355.3ø, ce=360.0ø, pt=(358326,-29460), d=1224
+LINEARISING DONE. c3=(359535,0) cs=360.0ø (end=369.3)
+LINEARISING: c1=(359535,0) max=1797
+   c1=(359535,0), c2=(357172,29051), c3=(354809,58102), cs=360.0ø, cm=364.6ø, ce=369.3ø, pt=(358377,28834), d=1224
+LINEARISING DONE. c3=(354809,58102) cs=369.3ø (end=369.3)
+EXPORT ARC: Arc linearised to 3 points.
+EXPORT ARC: Unmapped arc: o=(52406,250997), r=359668, sa=350.7ø, ea=  9.3ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(354940,-58124) max=1798
+   c1=(354940,-58124), c2=(354940,0), c3=(354940,58124), cs=350.7ø, cm=360.0ø, ce=369.3ø, pt=(359668,0), d=4728
+   c1=(354940,-58124), c2=(357304,-29062), c3=(359668,0), cs=350.7ø, cm=355.3ø, ce=360.0ø, pt=(358459,-29471), d=1225
+LINEARISING DONE. c3=(359668,0) cs=360.0ø (end=369.3)
+LINEARISING: c1=(359668,0) max=1798
+   c1=(359668,0), c2=(357304,29062), c3=(354940,58124), cs=360.0ø, cm=364.6ø, ce=369.3ø, pt=(358509,28845), d=1224
+LINEARISING DONE. c3=(354940,58124) cs=369.3ø (end=369.3)
+EXPORT ARC: Arc linearised to 3 points.
+EXPORT ARC: Unmapped arc: o=(553047,250997), r=359535, sa=170.7ø, ea=189.3ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(-354809,58102) max=1797
+   c1=(-354809,58102), c2=(-354809,0), c3=(-354809,-58102), cs=170.7ø, cm=180.0ø, ce=189.3ø, pt=(-359535,0), d=4726
+   c1=(-354809,58102), c2=(-357172,29051), c3=(-359535,0), cs=170.7ø, cm=175.3ø, ce=180.0ø, pt=(-358326,29460), d=1224
+LINEARISING DONE. c3=(-359535,0) cs=180.0ø (end=189.3)
+LINEARISING: c1=(-359535,0) max=1797
+   c1=(-359535,0), c2=(-357172,-29051), c3=(-354809,-58102), cs=180.0ø, cm=184.6ø, ce=189.3ø, pt=(-358377,-28834), d=1224
+LINEARISING DONE. c3=(-354809,-58102) cs=189.3ø (end=189.3)
+EXPORT ARC: Arc linearised to 3 points.
+EXPORT ARC: Unmapped arc: o=(553047,250997), r=359668, sa=170.7ø, ea=189.3ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(-354940,58124) max=1798
+   c1=(-354940,58124), c2=(-354940,0), c3=(-354940,-58124), cs=170.7ø, cm=180.0ø, ce=189.3ø, pt=(-359668,0), d=4728
+   c1=(-354940,58124), c2=(-357304,29062), c3=(-359668,0), cs=170.7ø, cm=175.3ø, ce=180.0ø, pt=(-358459,29471), d=1225
+LINEARISING DONE. c3=(-359668,0) cs=180.0ø (end=189.3)
+LINEARISING: c1=(-359668,0) max=1798
+   c1=(-359668,0), c2=(-357304,-29062), c3=(-354940,-58124), cs=180.0ø, cm=184.6ø, ce=189.3ø, pt=(-358509,-28845), d=1224
+LINEARISING DONE. c3=(-354940,-58124) cs=189.3ø (end=189.3)
+EXPORT ARC: Arc linearised to 3 points.
+EXPORT ARC: Unmapped arc: o=(52406,250997), r=362208, sa=350.7ø, ea=  9.3ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(357447,-58534) max=1811
+   c1=(357447,-58534), c2=(357447,0), c3=(357447,58534), cs=350.7ø, cm=360.0ø, ce=369.3ø, pt=(362208,0), d=4761
+   c1=(357447,-58534), c2=(359827,-29267), c3=(362208,0), cs=350.7ø, cm=355.3ø, ce=360.0ø, pt=(360990,-29679), d=1233
+LINEARISING DONE. c3=(362208,0) cs=360.0ø (end=369.3)
+LINEARISING: c1=(362208,0) max=1811
+   c1=(362208,0), c2=(359827,29267), c3=(357447,58534), cs=360.0ø, cm=364.6ø, ce=369.3ø, pt=(361041,29049), d=1233
+LINEARISING DONE. c3=(357447,58534) cs=369.3ø (end=369.3)
+EXPORT ARC: Arc linearised to 3 points.
+EXPORT ARC: Unmapped arc: o=(553047,250997), r=362208, sa=170.7ø, ea=189.3ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(-357447,58534) max=1811
+   c1=(-357447,58534), c2=(-357447,0), c3=(-357447,-58534), cs=170.7ø, cm=180.0ø, ce=189.3ø, pt=(-362208,0), d=4761
+   c1=(-357447,58534), c2=(-359827,29267), c3=(-362208,0), cs=170.7ø, cm=175.3ø, ce=180.0ø, pt=(-360990,29679), d=1233
+LINEARISING DONE. c3=(-362208,0) cs=180.0ø (end=189.3)
+LINEARISING: c1=(-362208,0) max=1811
+   c1=(-362208,0), c2=(-359827,-29267), c3=(-357447,-58534), cs=180.0ø, cm=184.6ø, ce=189.3ø, pt=(-361041,-29049), d=1233
+LINEARISING DONE. c3=(-357447,-58534) cs=189.3ø (end=189.3)
+EXPORT ARC: Arc linearised to 3 points.
+EXPORT ARC: Unmapped arc: o=(553047,250997), r=355863, sa=170.9ø, ea=189.1ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(-351384,56283) max=1779
+   c1=(-351384,56283), c2=(-351384,0), c3=(-351384,-56283), cs=170.9ø, cm=180.0ø, ce=189.1ø, pt=(-355863,0), d=4479
+   c1=(-351384,56283), c2=(-353623,28141), c3=(-355863,0), cs=170.9ø, cm=175.4ø, ce=180.0ø, pt=(-354717,28540), d=1164
+LINEARISING DONE. c3=(-355863,0) cs=180.0ø (end=189.1)
+LINEARISING: c1=(-355863,0) max=1779
+   c1=(-355863,0), c2=(-353623,-28141), c3=(-351384,-56283), cs=180.0ø, cm=184.5ø, ce=189.1ø, pt=(-354766,-27921), d=1163
+LINEARISING DONE. c3=(-351384,-56283) cs=189.1ø (end=189.1)
+EXPORT ARC: Arc linearised to 3 points.
+EXPORT ARC: Unmapped arc: o=(553047,250997), r=356988, sa=170.7ø, ea=189.3ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(-352296,57691) max=1784
+   c1=(-352296,57691), c2=(-352296,0), c3=(-352296,-57691), cs=170.7ø, cm=180.0ø, ce=189.3ø, pt=(-356988,0), d=4692
+   c1=(-352296,57691), c2=(-354642,28845), c3=(-356988,0), cs=170.7ø, cm=175.3ø, ce=180.0ø, pt=(-355788,29251), d=1215
+LINEARISING DONE. c3=(-356988,0) cs=180.0ø (end=189.3)
+LINEARISING: c1=(-356988,0) max=1784
+   c1=(-356988,0), c2=(-354642,-28845), c3=(-352296,-57691), cs=180.0ø, cm=184.6ø, ce=189.3ø, pt=(-355838,-28630), d=1215
+LINEARISING DONE. c3=(-352296,-57691) cs=189.3ø (end=189.3)
+EXPORT ARC: Arc linearised to 3 points.
+EXPORT ARC: Unmapped arc: o=(52406,250997), r=355863, sa=350.9ø, ea=  9.1ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(351384,-56283) max=1779
+   c1=(351384,-56283), c2=(351384,0), c3=(351384,56283), cs=350.9ø, cm=360.0ø, ce=369.1ø, pt=(355863,0), d=4479
+   c1=(351384,-56283), c2=(353623,-28141), c3=(355863,0), cs=350.9ø, cm=355.4ø, ce=360.0ø, pt=(354717,-28540), d=1164
+LINEARISING DONE. c3=(355863,0) cs=360.0ø (end=369.1)
+LINEARISING: c1=(355863,0) max=1779
+   c1=(355863,0), c2=(353623,28141), c3=(351384,56283), cs=360.0ø, cm=364.5ø, ce=369.1ø, pt=(354766,27921), d=1163
+LINEARISING DONE. c3=(351384,56283) cs=369.1ø (end=369.1)
+EXPORT ARC: Arc linearised to 3 points.
+EXPORT ARC: Unmapped arc: o=(52406,250997), r=356988, sa=350.7ø, ea=  9.3ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(352296,-57691) max=1784
+   c1=(352296,-57691), c2=(352296,0), c3=(352296,57691), cs=350.7ø, cm=360.0ø, ce=369.3ø, pt=(356988,0), d=4692
+   c1=(352296,-57691), c2=(354642,-28845), c3=(356988,0), cs=350.7ø, cm=355.3ø, ce=360.0ø, pt=(355788,-29251), d=1215
+LINEARISING DONE. c3=(356988,0) cs=360.0ø (end=369.3)
+LINEARISING: c1=(356988,0) max=1784
+   c1=(356988,0), c2=(354642,28845), c3=(352296,57691), cs=360.0ø, cm=364.6ø, ce=369.3ø, pt=(355838,28630), d=1215
+LINEARISING DONE. c3=(352296,57691) cs=369.3ø (end=369.3)
+EXPORT ARC: Arc linearised to 3 points.
+EXPORT ARC: Unmapped arc: o=(730089,579328), r=326048, sa=292.1ø, ea=307.9ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(122667,-302093) max=1630
+   c1=(122667,-302093), c2=(161476,-279686), c3=(200286,-257279), cs=292.1ø, cm=300.0ø, ce=307.9ø, pt=(163024,-282366), d=3094
+   c1=(122667,-302093), c2=(142845,-292229), c3=(163024,-282366), cs=292.1ø, cm=296.0ø, ce=300.0ø, pt=(142930,-293050), d=825
+LINEARISING DONE. c3=(163024,-282366) cs=300.0ø (end=307.9)
+LINEARISING: c1=(163024,-282366) max=1630
+   c1=(163024,-282366), c2=(181655,-269822), c3=(200286,-257279), cs=300.0ø, cm=303.9ø, ce=307.9ø, pt=(181852,-270624), d=825
+LINEARISING DONE. c3=(200286,-257279) cs=307.9ø (end=307.9)
+EXPORT ARC: Arc linearised to 3 points.
+EXPORT ARC: Unmapped arc: o=(732484,577958), r=339806, sa=292.1ø, ea=307.9ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(127843,-314840) max=1699
+   c1=(127843,-314840), c2=(168290,-291488), c3=(208738,-268136), cs=292.1ø, cm=300.0ø, ce=307.9ø, pt=(169903,-294281), d=3225
+   c1=(127843,-314840), c2=(148873,-304560), c3=(169903,-294281), cs=292.1ø, cm=296.0ø, ce=300.0ø, pt=(148961,-305416), d=860
+LINEARISING DONE. c3=(169903,-294281) cs=300.0ø (end=307.9)
+LINEARISING: c1=(169903,-294281) max=1699
+   c1=(169903,-294281), c2=(189320,-281208), c3=(208738,-268136), cs=300.0ø, cm=303.9ø, ce=307.9ø, pt=(189525,-282043), d=859
+LINEARISING DONE. c3=(208738,-268136) cs=307.9ø (end=307.9)
+EXPORT ARC: Arc linearised to 3 points.
+EXPORT ARC: Unmapped arc: o=(921607,95804), r=326048, sa=112.1ø, ea=127.9ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(-122667,302093) max=1630
+   c1=(-122667,302093), c2=(-161476,279686), c3=(-200286,257279), cs=112.1ø, cm=120.0ø, ce=127.9ø, pt=(-163024,282366), d=3094
+   c1=(-122667,302093), c2=(-142845,292229), c3=(-163024,282366), cs=112.1ø, cm=116.0ø, ce=120.0ø, pt=(-142930,293050), d=825
+LINEARISING DONE. c3=(-163024,282366) cs=120.0ø (end=127.9)
+LINEARISING: c1=(-163024,282366) max=1630
+   c1=(-163024,282366), c2=(-181655,269822), c3=(-200286,257279), cs=120.0ø, cm=123.9ø, ce=127.9ø, pt=(-181852,270624), d=825
+LINEARISING DONE. c3=(-200286,257279) cs=127.9ø (end=127.9)
+EXPORT ARC: Arc linearised to 3 points.
+EXPORT ARC: Unmapped arc: o=(729198,577798), r=322475, sa=292.1ø, ea=307.9ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(121323,-298782) max=1612
+   c1=(121323,-298782), c2=(159707,-276621), c3=(198092,-254460), cs=292.1ø, cm=300.0ø, ce=307.9ø, pt=(161238,-279272), d=3061
+   c1=(121323,-298782), c2=(141280,-289027), c3=(161238,-279272), cs=292.1ø, cm=296.0ø, ce=300.0ø, pt=(141364,-289839), d=816
+LINEARISING DONE. c3=(161238,-279272) cs=300.0ø (end=307.9)
+LINEARISING: c1=(161238,-279272) max=1612
+   c1=(161238,-279272), c2=(179665,-266866), c3=(198092,-254460), cs=300.0ø, cm=303.9ø, ce=307.9ø, pt=(179859,-267658), d=815
+LINEARISING DONE. c3=(198092,-254460) cs=307.9ø (end=307.9)
+EXPORT ARC: Arc linearised to 3 points.
+EXPORT ARC: Unmapped arc: o=(922498,97334), r=322475, sa=112.1ø, ea=127.9ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(-121323,298782) max=1612
+   c1=(-121323,298782), c2=(-159707,276621), c3=(-198092,254460), cs=112.1ø, cm=120.0ø, ce=127.9ø, pt=(-161237,279272), d=3060
+   c1=(-121323,298782), c2=(-141280,289027), c3=(-161237,279272), cs=112.1ø, cm=116.0ø, ce=120.0ø, pt=(-141364,289839), d=816
+LINEARISING DONE. c3=(-161237,279272) cs=120.0ø (end=127.9)
+LINEARISING: c1=(-161237,279272) max=1612
+   c1=(-161237,279272), c2=(-179664,266866), c3=(-198092,254460), cs=120.0ø, cm=123.9ø, ce=127.9ø, pt=(-179859,267658), d=815
+LINEARISING DONE. c3=(-198092,254460) cs=127.9ø (end=127.9)
+EXPORT ARC: Arc linearised to 3 points.
+EXPORT ARC: Unmapped arc: o=(733107,556051), r=340387, sa=291.9ø, ea=308.1ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(126960,-315823) max=1701
+   c1=(126960,-315823), c2=(168495,-291842), c3=(210031,-267862), cs=291.9ø, cm=300.0ø, ce=308.1ø, pt=(170194,-294784), d=3397
+   c1=(126960,-315823), c2=(148577,-305303), c3=(170194,-294784), cs=291.9ø, cm=295.9ø, ce=300.0ø, pt=(148682,-306198), d=901
+LINEARISING DONE. c3=(170194,-294784) cs=300.0ø (end=308.1)
+LINEARISING: c1=(170194,-294784) max=1701
+   c1=(170194,-294784), c2=(190112,-281323), c3=(210031,-267862), cs=300.0ø, cm=304.0ø, ce=308.1ø, pt=(190342,-282194), d=900
+LINEARISING DONE. c3=(210031,-267862) cs=308.1ø (end=308.1)
+EXPORT ARC: Arc linearised to 3 points.
+EXPORT ARC: Unmapped arc: o=(919213,81433), r=339806, sa=112.1ø, ea=127.9ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(-127843,314840) max=1699
+   c1=(-127843,314840), c2=(-168290,291488), c3=(-208738,268136), cs=112.1ø, cm=120.0ø, ce=127.9ø, pt=(-169903,294281), d=3225
+   c1=(-127843,314840), c2=(-148873,304560), c3=(-169903,294281), cs=112.1ø, cm=116.0ø, ce=120.0ø, pt=(-148961,305416), d=860
+LINEARISING DONE. c3=(-169903,294281) cs=120.0ø (end=127.9)
+LINEARISING: c1=(-169903,294281) max=1699
+   c1=(-169903,294281), c2=(-189320,281208), c3=(-208738,268136), cs=120.0ø, cm=123.9ø, ce=127.9ø, pt=(-189525,282043), d=859
+LINEARISING DONE. c3=(-208738,268136) cs=127.9ø (end=127.9)
+EXPORT ARC: Arc linearised to 3 points.

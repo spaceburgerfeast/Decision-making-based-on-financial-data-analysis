@@ -1,0 +1,24 @@
+Ops.binary              Group Generic Ops
+as.binary               as binary digit.
+bin2gray                A gray code converter function
+binAdd                  Binary Addition (+)
+binSeq                  Binary sequence
+binary                  Binary digit.
+binaryLogic             Binary Logic GNU R Package
+binaryPrefix            Binary prefix (KiB,MiB,..)
+byte                    A simple helper function to return the size of
+                        one byte
+bytesNeeded             Minimum number of "byte" needed to hold n "bit"
+fillUpToBit             Fill up to bit (000..)
+fillUpToByte            Fill up to Byte (00000000..)
+gray2bin                A gray code to binary converter function
+is.binary               is Binary Vector
+loadAttributes          loadAttributes Helper function load Attributes
+negate                  Binary Negation (!)
+print.binary            Print method for binary number.
+rotate                  Rotate no carry ()
+saveAttributes          saveAttributes Helper function save Attributes
+shiftLeft               Binary Left Shift (<<)
+shiftRight              Binary Right Shift (>>)
+summary.binary          Summary method for binary number.
+switchEndianess         Switch Endianess.

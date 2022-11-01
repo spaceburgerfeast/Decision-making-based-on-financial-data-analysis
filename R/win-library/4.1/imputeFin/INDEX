@@ -1,0 +1,26 @@
+fit_AR1_Gaussian        Fit Gaussian AR(1) model to time series with
+                        missing values and/or outliers
+fit_AR1_t               Fit Student's t AR(1) model to time series with
+                        missing values and/or outliers
+fit_VAR_t               Fit Student's t VAR model to time series with
+                        missing values and/or outliers
+imputeFin-package       imputeFin: Imputation of Financial Time Series
+                        with Missing Values.
+impute_AR1_Gaussian     Impute missing values of time series based on a
+                        Gaussian AR(1) model
+impute_AR1_t            Impute missing values of time series based on a
+                        Student's t AR(1) model
+impute_OHLC             Impute missing values of an OHLC time series on
+                        a rolling window basis based on a Gaussian
+                        AR(1) model
+impute_rolling_AR1_Gaussian
+                        Impute missing values of time series on a
+                        rolling window basis based on a Gaussian AR(1)
+                        model
+plot_imputed            Plot imputed time series.
+ts_AR1_Gaussian         Synthetic AR(1) Gaussian time series with
+                        missing values
+ts_AR1_t                Synthetic AR(1) Student's t time series with
+                        missing values
+ts_VAR_t                Synthetic Student's t VAR data with missing
+                        values
