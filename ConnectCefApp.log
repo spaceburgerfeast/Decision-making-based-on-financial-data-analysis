@@ -1,8 +1,0 @@
-[2021-03-16 10:07:27.715727] [0x000037a8] (info) : Connect CEF app
-[2021-03-16 10:07:27.716800] [0x000037a8] (info) : 2020,12,21,64h
-[2021-03-16 10:07:27.716800] [0x000037a8] (info) : Memory 15.84 GB
-[2021-03-16 10:07:27.794826] [0x000037a8] (info) : Not enabling crash reporter for processid=6764
-[2021-03-16 10:07:27.795337] [0x000037a8] (info) : Starting update checks
-[2021-03-16 10:07:28.273649] [0x000034e8] (info) : Not enabling crash reporter for processid=1244
-[2021-03-16 10:07:28.936012] [0x000032c0] (info) : CURLRequestClient::OnRequestComplete https://www.adobe.com/go/UpdateDescr?noCache=5581968 error=-105
-[2021-03-16 10:07:29.134244] [0x000037a8] (info) : Closing Log File
